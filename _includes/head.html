@@ -1,46 +1,21 @@
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-{%- include snippets/get-article-title.html article=page -%}
-<title>{%- if __return -%}{{ __return }} - {{ site.title }}{%- else -%}{{ site.title }}{%- endif -%}</title>
-
-<meta name="description" content="{%- if page.excerpt -%}{{ page.excerpt | strip_html | strip_newlines | strip | truncate: 160 }}{%- else -%}{{ site.description }}{%- endif -%}">
-<link rel="canonical" href="{%- include snippets/page-url.html -%}">
-
-{%- assign _paths_rss = site.paths.rss | default: site.data.variables.default.paths.rss -%}
-{%- include snippets/get-nav-url.html path=_paths_rss -%}
-<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ __return }}">
-<!-- begin favicon -->
-{%- include snippets/prepend-baseurl.html path='/assets/apple-touch-icon.png' -%}
-<link rel="apple-touch-icon" sizes="180x180" href="{{ __return }}">
-
-{%- include snippets/prepend-baseurl.html path='/assets/favicon-32x32.png' -%}
-<link rel="icon" type="image/png" sizes="32x32" href="{{ __return }}">
-
-{%- include snippets/prepend-baseurl.html path='/assets/favicon-16x16.png' -%}
-<link rel="icon" type="image/png" sizes="16x16" href="{{ __return }}">
-
-{%- include snippets/prepend-baseurl.html path='/assets/site.webmanifest' -%}
-<link rel="manifest" href="{{ __return }}">
-
-{%- include snippets/prepend-baseurl.html path='/assets/safari-pinned-tab.svg' -%}
-<link rel="mask-icon" href="{{ __return }}" color="#fc4d50">
-
-{%- include snippets/prepend-baseurl.html path='/assets/favicon.ico' -%}
-<link rel="shortcut icon" href="{{ __return }}">
-
-<meta name="msapplication-TileColor" content="#ffc40d">
-
-{%- include snippets/prepend-baseurl.html path='/assets/browserconfig.xml' -%}
-<meta name="msapplication-config" content="{{ __return }}">
-
-<meta name="theme-color" content="#ffffff">
-<!-- end favicon -->
-
-{%- include snippets/prepend-baseurl.html path='/assets/css/main.css' -%}
-<link rel="stylesheet" href="{{ __return }}">
-
-{%- include snippets/get-sources.html -%}
-{%- assign _sources = __return -%}
-<link rel="stylesheet" href="{{ _sources.font_awesome }}" >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="author"  content="{{ site.author }}">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="keywords"  content="{{ site.keyword }}">
+    <!-- Open Graph -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ page.url | prepend: site.url }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <link rel="stylesheet" href="//cdn.staticfile.org/normalize/6.0.0/normalize.min.css">
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_271755_rdxzzo2kqwk.css">
+    <link rel="stylesheet" href="/assets/css/github-markdown.css">
+    <link rel="stylesheet" href="/assets/css/prism.css">
+    <link rel="stylesheet" href="/assets/css/share.min.css">
+    <link rel="stylesheet" href="/assets/css/app.min.css">
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+</head>

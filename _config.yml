@@ -1,192 +1,81 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-#
-# ,--------.      ,--.   ,--. ,--.
-# '--.  .--',---.  \  `.'  /,-'  '-.
-#    |  |  | .-. :  .'    \ '-.  .-'
-#    |  |  \   --. /  .'.  \  |  |
-#    `--'   `----''--'   '--' `--'
+# Site settings 配置站点
+title: '小A的禅境花园'
+description: '啦啦啦'
+keyword: '小A，计算机'
+url: 'http://abnervictor.github.io' # your host
 
+# if you don't need baseurl, you should leave this value blank.
+baseurl: ''
 
+# Navigation links
+nav:
+  home: '/'
+  tags: '/tags.html'
 
+# Footer
+footer:
+  since: 2018
 
-## => Site Settings
-##############################
-text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : # does not include hostname
-title   : Your Site Title
-description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+# Author 配置博主信息
+author: 'AbnerVictor'
+nickname: '小A'
+bio: '什么都感兴趣'
+avatar: '/assets/img/profile.jpg'
 
+# Search
+search: true
 
-## => Language and Timezone
-##############################
-lang: # the language of your site, "en" (default, English), "zh"(简体中文), "zh-Hans"(简体中文), "zh-Hant"(繁體中文)
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+# Night mode
+nightMode: true
 
-
-## => Author and Social
-##############################
-author:
-  type      : # "person" (default), "organization"
-  name      : Your Name
-  url       :
-  avatar    : # path or url of avatar image
-  bio       : I am an amazing person.
-  email     :
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
-  googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
-  weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
-  douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name/
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name/
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
-  npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
-  telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
-
-
-## => GitHub Repository (if the site is hosted by GitHub)
-##############################
-repository: user_name/repo_name
-repository_tree: master
-
-
-## => Paths
-##############################
-paths:
-  root    : # title link url, "/" (default)
-  home    : # home layout url, "/" (default)
-  archive : # "/archive.html" (default)
-  rss     : # "/feed.xml" (default)
-
-
-## => Post
-##############################
-## excerpt
-excerpt_separator: <!--more-->
-
-## license
-license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
-
-## TOC
-toc:
-  selectors: # "h1,h2,h3" (default)
-
-
-## => Markdown Enhancements
-##############################
-## Mathjax
-mathjax: # false (default), true
-mathjax_autoNumber: # false (default), true
-
-## Mermaid
-mermaid: # false (default), true
-
-## Chart
-chart: # false (default), true
-
-
-## => Paginate
-##############################
-paginate: 8
-paginate_path: /page:num # don't change this unless for special need
-
-
-## => Sources
-##############################
-sources: # bootcdn (default), unpkg
-
-
-## => Comments
-##############################
+# Comments 评论功能
 comments:
-  provider: false # false (default), "disqus", "gitalk", "custom"
+  disqus: false
+  disqus_url: 'https://abnervictor.disqus.com/embed.js'
 
-  ## Disqus
-  disqus:
-    shortname: # the Disqus shortname for the site
+# MathJax 公式支持 by Ray-Eldath
+mathjax: true
 
-  ## Gitalk
-  # please refer to https://github.com/gitalk/gitalk for more info.
-  gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
-    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+# Share
+social-share: true
+social-share-items: ['wechat', 'weibo']
 
+# theme color 主题皮肤
+theme-color: 'pink'  # pink or default
 
-## => Pageview
-##############################
-pageview:
-  provider: false # false (default), "leancloud", "custom"
+# Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
+#postPatterns: 'ticTacToe'
 
-  ## Leancloud
-  leancloud:
-    app_id    : # LeanCloud App id
-    app_key   : # LeanCloud App key
-    app_class : # LeanCloud App class
+# Hero background patterns
+postPatterns: 'circuitBoard'
 
+# SNS settings 配置社交网站
+# url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
+sns:
+  weibo: '//weibo.com/1874576177'
+  github: '//github.com/AbnerVictor'
 
-## => Analytics
-##############################
-analytics:
-  provider: false # false (default), "google", "custom"
+# Tags 设置标签
+recommend-tags: true # whether or not display recommend-tags on the sidebar
+recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
 
-  ## Google Analytics
-  google:
-    tracking_id : # Google Analytics id for the site
-    anonymize_ip: false # Anonymize IP tracking for Analytics
+# Build settings
+paginate: 6
+paginate_path: 'page:num'
+exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'README.md']
 
+# Markdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
 
-## => Build
-##############################
-markdown    : kramdown
-highlighter : rouge
-permalink   : date
+# RSS
+RSS: false
 
-exclude:
-  - CHANGELOG.md
-  - HOW_TO_RELEASE.md
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README-*.md
-  - README.md
-  - gulpfile.js
-  - jekyll-text-theme.gemspec
-  - package-lock.json
-  - package.json
-  - /docs
-  - /node_modules
-  - /screenshots
-  - /test
-  - /vendor
+# Permalink
+# See: https://github.com/kaeyleo/jekyll-theme-H2O/issues/35
+permalink: /:year/:month/:day/:title.html
 
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: article
-      license: true
-      aside:
-        toc: true
-      show_edit_on_github: true
-      pageview: true
-
-
-## => Plugins
-##############################
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jemoji
+# Plugins
+plugins: [jekyll-paginate]
