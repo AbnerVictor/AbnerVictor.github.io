@@ -44,10 +44,8 @@ social-share-items: ['wechat', 'weibo']
 theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
-#postPatterns: 'ticTacToe'
-
-# Hero background patterns
-postPatterns: 'circuitBoard'
+postPatterns: 'ticTacToe'
+#postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
