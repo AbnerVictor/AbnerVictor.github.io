@@ -2,10 +2,10 @@
 layout: post
 title: 'macOS安装TensorFlow踩坑记'
 subtitle: 'macOS Mojave (10.14) 使用Pycharm从零配置TensorFlow环境'
-cover: http://imglf3.nosdn0.126.net/img/eGZmd3h5eVQ5cWZoNElDSStnU3VmcTJFT093UGpGTk1sMUhVcGhGOWhyMk5JSWFOVWo4OW93PT0.jpg
 date: 2018-10-11
 categories: 教程
-tags: TensorFlow
+cover: 'http://imglf3.nosdn0.126.net/img/eGZmd3h5eVQ5cWZoNElDSStnU3VmcTJFT093UGpGTk1sMUhVcGhGOWhyMk5JSWFOVWo4OW93PT0.jpg'
+tags: TensorFlow 教程
 ---
 
 [**前往Lofter长文章**](http://www.lofter.com/lpost/1e65d930_12b53f772)
