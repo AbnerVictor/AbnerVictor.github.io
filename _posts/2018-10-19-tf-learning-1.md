@@ -18,10 +18,13 @@ tags: TensorFlow
     4. TensorFlow中使用 `tf.Tensor`作为操作和传递的主要对象
 
 
-> 3. \# a rank 0 tensor; a scalar with shape [],
-> [1., 2., 3.] # a rank 1 tensor; a vector with shape [3]
-> [[1., 2., 3.], [4., 5., 6.]] # a rank 2 tensor; a matrix with shape [2, 3]
-> [[[1., 2., 3.]], [[7., 8., 9.]]] # a rank 3 tensor with shape [2, 1, 3]
+> 1\. \# a rank 0 tensor; a scalar with shape [],
+>
+> [1., 2., 3.] \# a rank 1 tensor; a vector with shape [3]
+>
+> [[1., 2., 3.], [4., 5., 6.]] \# a rank 2 tensor; a matrix with shape [2, 3]
+>
+> [[[1., 2., 3.]], [[7., 8., 9.]]] \# a rank 3 tensor with shape [2, 1, 3]
 
 
 - **<span style="color:#df732c">变量 Variable</span>**
