@@ -8,7 +8,7 @@ tags: TensorFlow
 ---
 
 <style type="text/css">
-h1,h2,h3,h4,h5 {color: #df732c !important;}
+h4,h5 {color: #df732c !important;}
 </style>
 
 #### 常见的一些神经网络训练更新方法 
