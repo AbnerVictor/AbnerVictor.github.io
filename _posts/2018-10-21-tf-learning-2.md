@@ -93,12 +93,15 @@ $$\Delta\theta_t = - \frac{\hat{m_t}}{\sqrt{\hat{n_t}} + \epsilon} * \eta$$
 
 第一张图为不同算法在损失平面等高线上随时间的变化情况，第二张图为不同算法在鞍点处的行为比较。
 
-![](https://images2018.cnblogs.com/blog/1192699/201803/1192699-20180311110108768-2113908893.gif)
+![](http://otafnwsmg.bkt.clouddn.com/img/dl/optimizer-1.gif)
 
 ![](http://d.ifengimg.com/w600/p0.ifengimg.com/pmop/2017/0619/95B3A2D86B24D191A2FB8AD9ACB23D04B3DE89C0_size714_w620_h480.gif)
 
 
 ##### 参考：
+
 [1] [深度学习最全优化方法总结比较](https://zhuanlan.zhihu.com/p/22252270) 
+
 [2] [优化方法总结](https://blog.csdn.net/u010089444/article/details/76725843) 
+
 [3] [加速神经网络训练](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/3-4-A-speed-up-learning/)
