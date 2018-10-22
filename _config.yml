@@ -42,7 +42,7 @@ social-share: true
 social-share-items: ['wechat', 'weibo']
 
 # theme color 主题皮肤
-theme-color: 'pink'  # pink or default
+theme-color: 'default'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'ticTacToe'
@@ -75,8 +75,6 @@ RSS: false
 # Permalink
 # See: https://github.com/kaeyleo/jekyll-theme-H2O/issues/35
 permalink: /:year/:month/:day/:title.html
-
-timezone: +800
 
 # Plugins
 plugins: [jekyll-paginate]
