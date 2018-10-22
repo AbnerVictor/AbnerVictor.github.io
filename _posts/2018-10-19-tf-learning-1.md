@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'TensorFlow学习笔记（一）'
-subtitle: '入坑'
+title: 'TensorFlow学习笔记（一）：概念'
+subtitle: '构建简单的网络'
 date: 2018-10-19
 categories: 笔记
 tags: TensorFlow
