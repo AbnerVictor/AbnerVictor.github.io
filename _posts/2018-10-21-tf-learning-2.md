@@ -97,6 +97,20 @@ $$\Delta\theta_t = - \frac{\hat{m_t}}{\sqrt{\hat{n_t}} + \epsilon} * \eta$$
 
 ![](http://d.ifengimg.com/w600/p0.ifengimg.com/pmop/2017/0619/95B3A2D86B24D191A2FB8AD9ACB23D04B3DE89C0_size714_w620_h480.gif)
 
+TensorFlow原生提供了多种优化器:
+> - class tf.train.GradientDescentOptimiazer
+> - class tf.train.AdadeltaOptimizer
+> - class tf.train.AdagradOptimizer
+> - class tf.train.AdagradDAOptimizer
+> - class tf.train.AdamOptimizer
+> - class tf.train.FtrlOptimizer
+> - class tf.train.MomentumOptimizer
+> - class tf.train.ProximalAdagradOptimizer
+> - class tf.train.ProximalGradientDescentOptimizer
+> - class tf.train.RMSPropOptimizer
+> - class tf.train.sdca_optimizer
+> - class tf.train.SyncReplicasOptimizer
+
 
 ##### 参考：
 
