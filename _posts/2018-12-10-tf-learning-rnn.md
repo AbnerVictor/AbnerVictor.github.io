@@ -55,10 +55,7 @@ print(output.shape) # (32, 128)
 ##### LSTMCell
 
 
-![RNN](https://pic2.zhimg.com/v2-71652d6a1eee9def631c18ea5e3c7605_r.jpg)
-
-
-![LSTM](https://pic4.zhimg.com/v2-e4f9851cad426dfe4ab1c76209546827_r.jpg)
+![RNN与LSTM](https://p4.ssl.cdn.btime.com/t015ef96a87f3ef2ddd.jpg?size=640x500)
 
 LSTM是一种特殊的循环神经网络，改善了RNN中的梯度消失问题，其和RNN最明显的区别在于，对于特定时刻t，隐藏层输出一个`hidden state` -> h<sub>t</sub>和`cell state`-> c<sub>t</sub> 
 
