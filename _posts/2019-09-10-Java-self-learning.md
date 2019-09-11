@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Java 学习笔记'
-subtitle: '从入门到放弃'
+subtitle: '从到放弃'
 date: 2019-09-11
 categories: HKUST
 tags:  Java
@@ -25,11 +25,11 @@ tags:  Java
 
 ```Java
 public class HelloWorld{
-	public static void main(String[] args){
-		System.out.println(“Helloworld”);
-	}
+public static void main(String[] args){
+System.out.println(“Helloworld”);
 }
-```
+
+``
 
 > **注：** `String args[]` 与 `String[] args` 都可以执行，但推荐使用后者，避免歧义
 
@@ -88,14 +88,12 @@ class FreshJuice{
 enum FreshJuiceSize{ SMALL, MEDIUM, LARGE }//枚举
 
 FreshJuiceSize size;
+}	public class FreshJuiceTest{
+public static void main(String[] args){
+FreshJuice juice = new FreshJuice();
+juice.size = FreshJuiceSize.FreshJuiceSize.MEDIUM;
 }
-	public class FreshJuiceTest{
-		public static void main(String[] args){
-			FreshJuice juice = new FreshJuice();
-			juice.size = FreshJuiceSize.FreshJuiceSize.MEDIUM;
-		}
 }
-
 ```
 
 **HINT**：枚举可以单独声明也可以声明在类里面。方法、变量、构造函数也可以在枚举中定义。
@@ -182,6 +180,6 @@ public class Puppy{
 
 - import语句和package语句对源文件中定义的所有类都有效，在同一个源文件中，不能给不同的类不同的包声明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODQ4MTQ3LC0zOTIwMDY5NzksLTEyOD
-EwODc1NjFdfQ==
+eyJoaXN0b3J5IjpbNjIxNTU3ODYzLDE2ODg0ODE0NywtMzkyMD
+A2OTc5LC0xMjgxMDg3NTYxXX0=
 -->
