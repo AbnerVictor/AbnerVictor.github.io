@@ -141,15 +141,10 @@ Java还有一些特殊的类，比如内部类、匿名类。
 一个类可以有多个构造函数，在创建一个对象的时候至少调用其中一个。
 
 ```java
-
 public class Puppy{
-
-public Puppy(){}
-
-public Puppy(String name){}
-
+	public Puppy(){}
+	public Puppy(String name){}
 }
-
 ```
 
 #### 创建对象
@@ -192,6 +187,6 @@ Puppy myPuppy = new Puppy("dog");
 
 - import语句和package语句对源文件中定义的所有类都有效，在同一个源文件中，不能给不同的类不同的包声明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzcyMTA5NjEsLTM5MjAwNjk3OSwtMT
-I4MTA4NzU2MV19
+eyJoaXN0b3J5IjpbMTAwNjUwNzY1LC0zOTIwMDY5NzksLTEyOD
+EwODc1NjFdfQ==
 -->
