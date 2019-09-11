@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '机器学习基础—参数估计'
-subtitle: 'MLE / MAP'
+subtitle: '概率论基础'
 date: 2019-09-11
 categories: HKUST
 tags:  MachineLearning
@@ -267,5 +267,5 @@ $\hat{\theta} = E[\theta | D] = \int_\theta{\theta p(\theta|D)d\theta}$
 
 ![c885875e9c5b989d63bcbf54b6c52c25.png](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2387)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTIyNzc2MDddfQ==
+eyJoaXN0b3J5IjpbLTE1MzU3ODE1ODVdfQ==
 -->
