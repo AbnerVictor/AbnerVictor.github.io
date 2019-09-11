@@ -31,6 +31,7 @@ tags:  MachineLearning
 定义已有的样本集合为$D$，样本集合$D$中的样本都是从一个固定但是未知的概率密度函数（连续）$p(x)$ 中独立抽取出来的，要求根据这些样本估计$x$的概率分布，记为$p(x\|D)$，并且使得$p(x\|D)$尽可能的接近$p(x)$。
 
 ### 预知识
+***
 
 | 符号 | 含义|
 | :----: | :------: |
@@ -251,8 +252,8 @@ $\hat{\theta} = E[\theta\|D] = \int_\theta{\theta p(\theta\|D)d\theta}$
 > 2. 极大似然估计与贝叶斯估计: [原文链接](https://blog.csdn.net/liu1194397014/article/details/52766760)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTcxODM1MjgsLTU1Mjk2MjUwLDQ2OD
-IyNDg4NiwtMTk3ODQxMTI1NCwzMjMyNTgyOSwtMjEzMDU3OTgy
-OCwxMDU0MTU4MzU3LDE2NjA5OTUwMjEsMjg0MjU1Mjk5LDE1OD
-AzNDk2MzVdfQ==
+eyJoaXN0b3J5IjpbMTA5NzM5NTMzMCwtNTUyOTYyNTAsNDY4Mj
+I0ODg2LC0xOTc4NDExMjU0LDMyMzI1ODI5LC0yMTMwNTc5ODI4
+LDEwNTQxNTgzNTcsMTY2MDk5NTAyMSwyODQyNTUyOTksMTU4MD
+M0OTYzNV19
 -->
