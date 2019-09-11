@@ -20,9 +20,7 @@ tags:  MachineLearning
 - 贝叶斯参数估计
 
 > Reference：
-
 > 1.【数学基础】参数估计之贝叶斯估计：[原文链接](https://blog.csdn.net/qq_32742009/article/details/81481680)
-
 > 2. 极大似然估计与贝叶斯估计: [原文链接](https://blog.csdn.net/liu1194397014/article/details/52766760)
 
 ### 统计推断
@@ -34,9 +32,7 @@ tags:  MachineLearning
 贝叶斯统计中，利用三种信息进行统计推断：
 
 > 1. 总体信息：总体分布或者总体所属分布提供的信息，譬如：“已知总体呈正态分布”。
-
 > 2. 样本信息：所抽取的样本的所有特征信息。
-
 > 3. 先验信息：在实验之前对问题的经验和资料，类条件概率。
 
 ### 贝叶斯估计核心问题
@@ -46,19 +42,12 @@ tags:  MachineLearning
 ### 预知识
 
 | 符号 | 含义|
-
 | :----: | :------: |
-
 | $D$ | 已有的数据 |
-
 | $\theta$ | 待估计的参数 |
-
 | $p(\theta)$ | 先验概率 |
-
-| $p(\theta | D)$ | 后验概率 |
-
+| $p(\theta\D)$ | 后验概率 |
 | $p(D)$ | 数据分布 |
-
 |$p(D|\theta)$ | 似然函数 |
 
 | $p(x,\theta|D)$ | 已知数据条件下的$x, \theta$概率 |
@@ -267,5 +256,5 @@ $\hat{\theta} = E[\theta | D] = \int_\theta{\theta p(\theta|D)d\theta}$
 
 ![c885875e9c5b989d63bcbf54b6c52c25.png](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2387)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTUxNDkyNTVdfQ==
+eyJoaXN0b3J5IjpbLTEyNDIzMDk5OTVdfQ==
 -->
