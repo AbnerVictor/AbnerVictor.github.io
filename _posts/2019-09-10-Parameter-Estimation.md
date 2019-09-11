@@ -242,7 +242,7 @@ $$p(D\, |\,\theta) = \prod_{i=1}^n p(x_i | \theta).$$
 
 贝叶斯参数估计的本质是通过贝叶斯决策得到参数$\theta$的最优估计，使得总期望风险最小。
 
-![4b9ff8ac7064d7486b65f184f6190a78.png](https://app.yinxiang.com/shard/s8/res/2a6401d1-cd2f-484f-a2e4-f96c026695f9/3804e100-ce1f-4c80-a516-23f7b154b016.png)
+![ndqrKU.png](https://s2.ax1x.com/2019/09/11/ndqrKU.png)
 
 这里的损失函数$\lambda(\theta-\hat{\theta})$通常采用方差$(\theta-\hat{\theta})^2$。
 
@@ -252,7 +252,7 @@ $\hat{\theta} = E[\theta\|D] = \int_\theta{\theta p(\theta\|D)d\theta}$
 
 ![c885875e9c5b989d63bcbf54b6c52c25.png](https://app.yinxiang.com/shard/s8/res/32a476b8-606b-4ae2-8f3c-0e431b792c8d/789ce7ed-23f9-4079-aa57-e3c4243f5d75.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDA4NDc5NCwzMjMyNTgyOSwtMjEzMD
-U3OTgyOCwxMDU0MTU4MzU3LDE2NjA5OTUwMjEsMjg0MjU1Mjk5
-LDE1ODAzNDk2MzVdfQ==
+eyJoaXN0b3J5IjpbLTI5MzA2MzExLDMyMzI1ODI5LC0yMTMwNT
+c5ODI4LDEwNTQxNTgzNTcsMTY2MDk5NTAyMSwyODQyNTUyOTks
+MTU4MDM0OTYzNV19
 -->
