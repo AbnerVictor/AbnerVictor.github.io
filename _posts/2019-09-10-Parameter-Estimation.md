@@ -106,7 +106,7 @@ $$\log{p(D\, |\,\theta)} = 2*\log{\rho}+1*\log{(1-\rho)}$$
 
 对式6求导，可以得到使得似然函数最大的$\hat{\theta}$值：
 
-![1.jpeg](https://imgchr.com/i/ndqyb4)
+![ndqyb4.jpg](https://s2.ax1x.com/2019/09/11/ndqyb4.jpg)
 
 ### 贝叶斯定理
 
@@ -178,7 +178,7 @@ $$p(\theta\, | \,D) = \frac{(\prod_{i=1}^n p(x_i | \theta))p(\theta)}{\int_\thet
 
 与MLE不同的是，式8中包含先验概率$p(\theta)$，根据抛硬币实验的经验，我们可以假设这个先验概率服从某种分布，比如Beta分布。
 
-![d8b447292d87700cce157ba4c14c5751.png](https://app.yinxiang.com/shard/s8/res/5687477b-09ec-4a8b-8aa0-3ecd9f84d249/45421093-7ec6-4672-95a9-b2c83d222876.png)
+![ndqcVJ.png](https://s2.ax1x.com/2019/09/11/ndqcVJ.png)
 
 将所有已知的式子带入到式8中，就能求出后验概率$p(\theta\|D)$。
 
@@ -252,7 +252,7 @@ $\hat{\theta} = E[\theta\|D] = \int_\theta{\theta p(\theta\|D)d\theta}$
 
 ![c885875e9c5b989d63bcbf54b6c52c25.png](https://app.yinxiang.com/shard/s8/res/32a476b8-606b-4ae2-8f3c-0e431b792c8d/789ce7ed-23f9-4079-aa57-e3c4243f5d75.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2NzgzNTQ0LDMyMzI1ODI5LC0yMTMwNT
-c5ODI4LDEwNTQxNTgzNTcsMTY2MDk5NTAyMSwyODQyNTUyOTks
-MTU4MDM0OTYzNV19
+eyJoaXN0b3J5IjpbMTI3NDA4NDc5NCwzMjMyNTgyOSwtMjEzMD
+U3OTgyOCwxMDU0MTU4MzU3LDE2NjA5OTUwMjEsMjg0MjU1Mjk5
+LDE1ODAzNDk2MzVdfQ==
 -->
