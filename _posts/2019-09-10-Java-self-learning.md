@@ -7,6 +7,8 @@ categories: HKUST
 tags:  Java
 ---
 
+[TOC]
+
 ## COMP 3021 - Java Programming
 ***
 
@@ -152,14 +154,12 @@ public class Puppy{
 3. 初始化：使用new创建对象时，调用构造方法初始化对象
 
 ```java
-
 public class Puppy{
 	public Puppy(String name){}
 	public static void main(String[] args){
 		Puppy myPuppy = new Puppy("dog");
 	}
 }
-
 ```
 
 #### 源文件声明规则
@@ -176,7 +176,7 @@ public class Puppy{
 
 - import语句和package语句对源文件中定义的所有类都有效，在同一个源文件中，不能给不同的类不同的包声明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODYwOTM5NiwtMjM5NTgyNTUxLDE1Mj
-U3ODMzMzMsMTY4ODQ4MTQ3LC0zOTIwMDY5NzksLTEyODEwODc1
-NjFdfQ==
+eyJoaXN0b3J5IjpbLTE2OTU2MTgwMDIsLTIzOTU4MjU1MSwxNT
+I1NzgzMzMzLDE2ODg0ODE0NywtMzkyMDA2OTc5LC0xMjgxMDg3
+NTYxXX0=
 -->
