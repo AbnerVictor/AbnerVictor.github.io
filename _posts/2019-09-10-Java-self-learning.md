@@ -24,13 +24,11 @@ tags:  Java
 1. 一个简单的实例
 
 ```Java
-
 public class HelloWorld{
 	public static void main(String[] args){
 		System.out.println(“Helloworld”);
 	}
 }
-
 ```
 
 > **注：** `String args[]` 与 `String[] args` 都可以执行，但推荐使用后者，避免歧义
@@ -38,13 +36,9 @@ public class HelloWorld{
 Java 编译指令
 
 ```shell
-
 $ javac HelloWorld.java
-
 $ java HelloWorld
-
 Hello World
-
 ```
 
 ### Java基础语法
@@ -205,6 +199,6 @@ Puppy myPuppy = new Puppy("dog");
 
 - import语句和package语句对源文件中定义的所有类都有效，在同一个源文件中，不能给不同的类不同的包声明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwMTEzNTA5LC0zOTIwMDY5NzksLTEyOD
+eyJoaXN0b3J5IjpbLTEzMzEyNjMxLC0zOTIwMDY5NzksLTEyOD
 EwODc1NjFdfQ==
 -->
