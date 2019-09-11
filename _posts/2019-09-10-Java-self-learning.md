@@ -25,6 +25,7 @@ public class HelloWorld{
 	public static void main(String[] args){
 		System.out.println(“Helloworld”);
 	}
+}
 `
 
 > **注：** `String args[]` 与 `String[] args` 都可以执行，但推荐使用后者，避免歧义
@@ -175,7 +176,7 @@ public class Puppy{
 
 - import语句和package语句对源文件中定义的所有类都有效，在同一个源文件中，不能给不同的类不同的包声明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxMzQxMzQ3LC0yMzk1ODI1NTEsMTUyNT
-c4MzMzMywxNjg4NDgxNDcsLTM5MjAwNjk3OSwtMTI4MTA4NzU2
-MV19
+eyJoaXN0b3J5IjpbLTQwMTY4MzIxMiwtMjM5NTgyNTUxLDE1Mj
+U3ODMzMzMsMTY4ODQ4MTQ3LC0zOTIwMDY5NzksLTEyODEwODc1
+NjFdfQ==
 -->
