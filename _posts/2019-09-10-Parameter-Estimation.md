@@ -250,9 +250,9 @@ $$p(D\, |\,\theta) = \prod_{i=1}^n p(x_i | \theta).$$
 
 $\hat{\theta} = E[\theta\|D] = \int_\theta{\theta p(\theta\|D)d\theta}$
 
-![c885875e9c5b989d63bcbf54b6c52c25.png](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2387)
+![c885875e9c5b989d63bcbf54b6c52c25.png](https://app.yinxiang.com/shard/s8/res/32a476b8-606b-4ae2-8f3c-0e431b792c8d/789ce7ed-23f9-4079-aa57-e3c4243f5d75.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODk5OTExOSwtMjEzMDU3OTgyOCwxMD
-U0MTU4MzU3LDE2NjA5OTUwMjEsMjg0MjU1Mjk5LDE1ODAzNDk2
-MzVdfQ==
+eyJoaXN0b3J5IjpbMzIzMjU4MjksLTIxMzA1Nzk4MjgsMTA1ND
+E1ODM1NywxNjYwOTk1MDIxLDI4NDI1NTI5OSwxNTgwMzQ5NjM1
+XX0=
 -->
