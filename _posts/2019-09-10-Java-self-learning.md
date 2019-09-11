@@ -73,9 +73,7 @@ Java中，类名、变量名和函数名被称为标识符。
 #### Java变量
 
 - 局部变量
-
 - 类变量（静态）
-
 - 成员变量（非静态）
 
 #### Java枚举
@@ -125,9 +123,7 @@ Java还有一些特殊的类，比如内部类、匿名类。
 #### 变量
 
 - 局部变量：在函数、构造函数中定义的变量，变量的生命和初始化都在函数中，函数结束后，变量就会自动销毁；
-
 - 成员变量：定义在类中，函数之外的变量，在创建对象的时候被实例化；
-
 - 类变量：类变量也在类中声明，在函数之外，但必须声明为static类型
 
 #### 构造函数
@@ -165,18 +161,13 @@ public class Puppy{
 #### 源文件声明规则
 
 - 一个源文件中只能有一个public类
-
 - 一个源文件中可以有多个非private类
-
 - 源文件的名称应该和public类名保持一致
-
 - 如果一个类定义在某个包中，那么package语句应该在源文件首行
-
 - 如果源文件包含import语句，那么应该放在package语句和类定义之间
-
 - import语句和package语句对源文件中定义的所有类都有效，在同一个源文件中，不能给不同的类不同的包声明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU2MTgwMDIsLTIzOTU4MjU1MSwxNT
+eyJoaXN0b3J5IjpbLTE2MzA3NTMwMjQsLTIzOTU4MjU1MSwxNT
 I1NzgzMzMzLDE2ODg0ODE0NywtMzkyMDA2OTc5LC0xMjgxMDg3
 NTYxXX0=
 -->
