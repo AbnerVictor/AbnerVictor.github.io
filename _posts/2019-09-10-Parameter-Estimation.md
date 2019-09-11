@@ -37,7 +37,7 @@ tags:  MachineLearning
 
 ### 贝叶斯估计核心问题
 
-定义已有的样本集合为$D$，样本集合$D$中的样本都是从一个固定但是未知的概率密度函数（连续）$p(x)$ 中独立抽取出来的，要求根据这些样本估计$x$的概率分布，记为$p(x \| D)$，并且使得$p(x \| D)$尽可能的接近$p(x)$。
+定义已有的样本集合为$D$，样本集合$D$中的样本都是从一个固定但是未知的概率密度函数（连续）$p(x)$ 中独立抽取出来的，要求根据这些样本估计$x$的概率分布，记为$p(x\|D)$，并且使得$p(x\|D)$尽可能的接近$p(x)$。
 
 ### 预知识
 
@@ -255,5 +255,5 @@ $\hat{\theta} = E[\theta | D] = \int_\theta{\theta p(\theta|D)d\theta}$
 
 ![c885875e9c5b989d63bcbf54b6c52c25.png](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2387)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDM0OTYzNV19
+eyJoaXN0b3J5IjpbLTM1ODQ2ODIyMSwxNTgwMzQ5NjM1XX0=
 -->
