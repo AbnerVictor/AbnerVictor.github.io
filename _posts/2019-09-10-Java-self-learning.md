@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Java 学习笔记'
-subtitle: '从到放弃'
+subtitle: '从ru到放弃'
 date: 2019-09-11
 categories: HKUST
 tags:  Java
@@ -175,6 +175,7 @@ public class Puppy{
 
 - import语句和package语句对源文件中定义的所有类都有效，在同一个源文件中，不能给不同的类不同的包声明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTU4MjU1MSwxNTI1NzgzMzMzLDE2OD
-g0ODE0NywtMzkyMDA2OTc5LC0xMjgxMDg3NTYxXX0=
+eyJoaXN0b3J5IjpbLTQ4NzIxMzk0NiwtMjM5NTgyNTUxLDE1Mj
+U3ODMzMzMsMTY4ODQ4MTQ3LC0zOTIwMDY5NzksLTEyODEwODc1
+NjFdfQ==
 -->
