@@ -1,13 +1,11 @@
 ---
 layout: post
-title: 'Welcome to StackEdit!'
-subtitle: 'StackEdit-test'
+title: 'Java 学习笔记'
+subtitle: ''
 date: 2019-09-11
 categories: HKUST
 tags:  Java
 ---
-
-# Java 学习笔记
 
 [toc]
 
@@ -211,5 +209,5 @@ Puppy myPuppy = new Puppy("dog");
 
 - import语句和package语句对源文件中定义的所有类都有效，在同一个源文件中，不能给不同的类不同的包声明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODEwODc1NjFdfQ==
+eyJoaXN0b3J5IjpbLTM1NjU0NzM5MSwtMTI4MTA4NzU2MV19
 -->
