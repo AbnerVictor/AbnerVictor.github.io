@@ -106,7 +106,7 @@ $$\log{p(D\, |\,\theta)} = 2*\log{\rho}+1*\log{(1-\rho)}$$
 
 对式6求导，可以得到使得似然函数最大的$\hat{\theta}$值：
 
-![f42c7f7fa55fcc9262955201a50e76b2.jpeg](https://app.yinxiang.com/shard/s8/res/1a2c9b82-92ac-4307-910f-114a992e3c8e/78a759e1-2069-4746-8bdc-8bf8305037d3.jpg)
+![1.jpeg](https://imgchr.com/i/ndqyb4)
 
 ### 贝叶斯定理
 
@@ -252,7 +252,7 @@ $\hat{\theta} = E[\theta\|D] = \int_\theta{\theta p(\theta\|D)d\theta}$
 
 ![c885875e9c5b989d63bcbf54b6c52c25.png](https://app.yinxiang.com/shard/s8/res/32a476b8-606b-4ae2-8f3c-0e431b792c8d/789ce7ed-23f9-4079-aa57-e3c4243f5d75.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzMjU4MjksLTIxMzA1Nzk4MjgsMTA1ND
-E1ODM1NywxNjYwOTk1MDIxLDI4NDI1NTI5OSwxNTgwMzQ5NjM1
-XX0=
+eyJoaXN0b3J5IjpbOTQ2NzgzNTQ0LDMyMzI1ODI5LC0yMTMwNT
+c5ODI4LDEwNTQxNTgzNTcsMTY2MDk5NTAyMSwyODQyNTUyOTks
+MTU4MDM0OTYzNV19
 -->
