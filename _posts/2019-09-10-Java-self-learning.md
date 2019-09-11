@@ -88,19 +88,12 @@ class FreshJuice{
 enum FreshJuiceSize{ SMALL, MEDIUM, LARGE }//枚举
 
 FreshJuiceSize size;
-
 }
-
-public class FreshJuiceTest{
-
-public static void main(String[] args){
-
-FreshJuice juice = new FreshJuice();
-
-juice.size = FreshJuiceSize.FreshJuiceSize.MEDIUM;
-
-}
-
+	public class FreshJuiceTest{
+	public static void main(String[] args){
+		FreshJuice juice = new FreshJuice();
+		juice.size = FreshJuiceSize.FreshJuiceSize.MEDIUM;
+	}
 }
 
 ```
@@ -199,6 +192,6 @@ Puppy myPuppy = new Puppy("dog");
 
 - import语句和package语句对源文件中定义的所有类都有效，在同一个源文件中，不能给不同的类不同的包声明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzEyNjMxLC0zOTIwMDY5NzksLTEyOD
-EwODc1NjFdfQ==
+eyJoaXN0b3J5IjpbLTE2MDIwNDQ0MTcsLTM5MjAwNjk3OSwtMT
+I4MTA4NzU2MV19
 -->
