@@ -26,13 +26,9 @@ tags:  Java
 ```Java
 
 public class HelloWorld{
-
-public static void main(String[] args){
-
-System.out.println(“Helloworld”);
-
-}
-
+	public static void main(String[] args){
+		System.out.println(“Helloworld”);
+	}
 }
 
 ```
@@ -209,6 +205,6 @@ Puppy myPuppy = new Puppy("dog");
 
 - import语句和package语句对源文件中定义的所有类都有效，在同一个源文件中，不能给不同的类不同的包声明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzcwMTAxOSwtMzkyMDA2OTc5LC0xMj
-gxMDg3NTYxXX0=
+eyJoaXN0b3J5IjpbNTcwMTEzNTA5LC0zOTIwMDY5NzksLTEyOD
+EwODc1NjFdfQ==
 -->
