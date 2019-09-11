@@ -10,6 +10,7 @@ tags:  Java
 [toc]
 
 ## COMP 3021 - Java Programming
+***
 
 [Course Page](https://course.cse.ust.hk/comp3021/)
 
@@ -178,6 +179,6 @@ public class Puppy{
 
 - import语句和package语句对源文件中定义的所有类都有效，在同一个源文件中，不能给不同的类不同的包声明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Mjg0MDA4MSwxNjg4NDgxNDcsLTM5Mj
-AwNjk3OSwtMTI4MTA4NzU2MV19
+eyJoaXN0b3J5IjpbLTExNTg3ODY5MjMsMTY4ODQ4MTQ3LC0zOT
+IwMDY5NzksLTEyODEwODc1NjFdfQ==
 -->
