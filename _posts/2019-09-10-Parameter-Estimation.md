@@ -17,7 +17,7 @@ tags:  MachineLearning
 
 
 > Reference：
->  1.【数学基础】参数估计之贝叶斯估计：[原文链接](https://blog.csdn.net/qq_32742009/article/details/81481680)
+> 1. 参数估计之贝叶斯估计：[原文链接](https://blog.csdn.net/qq_32742009/article/details/81481680)
 > 2. 极大似然估计与贝叶斯估计: [原文链接](https://blog.csdn.net/liu1194397014/article/details/52766760)
 
 ### 统计推断
@@ -252,6 +252,6 @@ $\hat{\theta} = E[\theta\|D] = \int_\theta{\theta p(\theta\|D)d\theta}$
 
 ![c885875e9c5b989d63bcbf54b6c52c25.png](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2387)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUzMDExMDcsMTA1NDE1ODM1NywxNj
+eyJoaXN0b3J5IjpbLTIxMzA1Nzk4MjgsMTA1NDE1ODM1NywxNj
 YwOTk1MDIxLDI4NDI1NTI5OSwxNTgwMzQ5NjM1XX0=
 -->
