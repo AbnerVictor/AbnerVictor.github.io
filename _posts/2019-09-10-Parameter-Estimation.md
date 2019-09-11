@@ -248,10 +248,10 @@ $$p(D\, |\,\theta) = \prod_{i=1}^n p(x_i | \theta).$$
 
 在给定数据$D$的情况下，$\theta$的贝叶斯估计值是：
 
-$\hat{\theta} = E[\theta | D] = \int_\theta{\theta p(\theta|D)d\theta}$
+$\hat{\theta} = E[\theta\|D] = \int_\theta{\theta p(\theta\|D)d\theta}$
 
 ![c885875e9c5b989d63bcbf54b6c52c25.png](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2387)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwMDgzNzk3LDI4NDI1NTI5OSwxNTgwMz
-Q5NjM1XX0=
+eyJoaXN0b3J5IjpbLTEzOTM5NzczMzEsMjg0MjU1Mjk5LDE1OD
+AzNDk2MzVdfQ==
 -->
