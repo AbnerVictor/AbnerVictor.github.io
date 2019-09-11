@@ -180,7 +180,7 @@ $$p(\theta\, | \,D) = \frac{(\prod_{i=1}^n p(x_i | \theta))p(\theta)}{\int_\thet
 
 ![d8b447292d87700cce157ba4c14c5751.png](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2385)
 
-将所有已知的式子带入到式8中，就能求出后验概率$p(\theta|D)$。
+将所有已知的式子带入到式8中，就能求出后验概率$p(\theta\|D)$。
 
 ### 使用贝叶斯估计的参数做预测
 
@@ -252,6 +252,6 @@ $\hat{\theta} = E[\theta\|D] = \int_\theta{\theta p(\theta\|D)d\theta}$
 
 ![c885875e9c5b989d63bcbf54b6c52c25.png](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2387)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM5NzczMzEsMjg0MjU1Mjk5LDE1OD
-AzNDk2MzVdfQ==
+eyJoaXN0b3J5IjpbMTY2MDk5NTAyMSwyODQyNTUyOTksMTU4MD
+M0OTYzNV19
 -->
