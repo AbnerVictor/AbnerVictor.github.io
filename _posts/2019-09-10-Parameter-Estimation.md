@@ -46,11 +46,10 @@ tags:  MachineLearning
 | $D$ | 已有的数据 |
 | $\theta$ | 待估计的参数 |
 | $p(\theta)$ | 先验概率 |
-| $p(\theta\D)$ | 后验概率 |
+| $p(\theta\|D)$ | 后验概率 |
 | $p(D)$ | 数据分布 |
-|$p(D|\theta)$ | 似然函数 |
-
-| $p(x,\theta|D)$ | 已知数据条件下的$x, \theta$概率 |
+|$p(D\|\theta)$ | 似然函数 |
+| $p(x,\theta\|D)$ | 已知数据条件下的$x, \theta$概率 |
 
 现已有样本集$D=\{x_1, x_2, ... , x_N\}$，我们假设这些数据是以含有未知参数$\theta$的某种概率形式分布的。通过已有的数据，可以对这个未知参数$\theta$进行估计，进而对外来的数据进行预测。
 
@@ -256,5 +255,5 @@ $\hat{\theta} = E[\theta | D] = \int_\theta{\theta p(\theta|D)d\theta}$
 
 ![c885875e9c5b989d63bcbf54b6c52c25.png](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2387)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIzMDk5OTVdfQ==
+eyJoaXN0b3J5IjpbMTg4NzgzMjI4NV19
 -->
