@@ -60,7 +60,7 @@ tags:  MachineLearning
 
 极大似然估计法认为参数$\theta$是固定的，由于一些外界参数的干扰使得数据看起来不是完全由参数决定的。那么，就在数据给定的情况下，找一个概率最大的参数$\theta$作为估计值。
 
-因此，问题变成了一个条件概率最大的求解，即求出使得$p(\theta|D)$最大的参数$\theta$。
+因此，问题变成了一个条件概率最大的求解，即求出使得$p(\theta\|D)$最大的参数$\theta$。
 
 式1:
 
@@ -134,7 +134,7 @@ $$p(A\, | \,B) = \frac{p(AB)}{p(B)}$$
 
 贝叶斯估计中，认为参数$\theta$也是服从某种概率分布$p(\theta)$的，已有的数据是在这种参数的概率分布下产生的。
 
-$p(x | D)$被称作后验分布（概率），使用它估计$\theta$有三种常用方法：
+$p(x\|D)$被称作后验分布（概率），使用它估计$\theta$有三种常用方法：
 
 - 使用后验分布的密度函数最大值点作为$\theta$的点估计的`最大后验估计 - MAP`，该方法与频率学派的`MLE`方法的不同之处就在于**先验信息**的使用。
 
@@ -216,13 +216,13 @@ $$p(x|\theta, D) = p(x|\theta)$$
 
 $$p(x|D) = \int_\theta{p(x, \theta | D)d\theta} = \int_\theta{p(x|\theta)p(\theta|D)d\theta}$$
 
-这里的$p(x|\theta)$，根据投掷硬币的例子，可以是$p(1|\rho) = \rho$或者$p(0|\rho) = 1-\rho$。此时就可以求出$x_{N+1}$的数学期望了。
+这里的$p(x\|\theta)$，根据投掷硬币的例子，可以是$p(1\|\rho) = \rho$或者$p(0\|\rho) = 1-\rho$。此时就可以求出$x_{N+1}$的数学期望了。
 
 ### 最大化后验概率MAP
 
 ***
 
-式13的计算难点在于，$\theta$也是随机分布的，因此需要对每一个可能的参数情况积分。为了简化运算，只考虑一个能够最大化后验概率$p(\theta|D)$的参数$\theta$的情况。
+式13的计算难点在于，$\theta$也是随机分布的，因此需要对每一个可能的参数情况积分。为了简化运算，只考虑一个能够最大化后验概率$p(\theta\|D)$的参数$\theta$的情况。
 
 其实就是在MLE求解极大似然函数的式子中，考虑先验概率$p(\theta)$，不考虑$p(D)$
 
@@ -252,6 +252,6 @@ $\hat{\theta} = E[\theta\|D] = \int_\theta{\theta p(\theta\|D)d\theta}$
 
 ![c885875e9c5b989d63bcbf54b6c52c25.png](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2387)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDk5NTAyMSwyODQyNTUyOTksMTU4MD
-M0OTYzNV19
+eyJoaXN0b3J5IjpbMTA1NDE1ODM1NywxNjYwOTk1MDIxLDI4ND
+I1NTI5OSwxNTgwMzQ5NjM1XX0=
 -->
