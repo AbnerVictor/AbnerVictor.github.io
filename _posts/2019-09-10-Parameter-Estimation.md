@@ -7,8 +7,6 @@ categories: HKUST
 tags:  MachineLearning
 ---
 
-[TOC]
-
 关键字：
 - 贝叶斯定理
 - 极大似然估计
@@ -254,7 +252,8 @@ $\hat{\theta} = E[\theta\|D] = \int_\theta{\theta p(\theta\|D)d\theta}$
 > 2. 极大似然估计与贝叶斯估计: [原文链接](https://blog.csdn.net/liu1194397014/article/details/52766760)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4MjI0ODg2LC01NTI5NjI1MCwtMTk3OD
-QxMTI1NCwzMjMyNTgyOSwtMjEzMDU3OTgyOCwxMDU0MTU4MzU3
-LDE2NjA5OTUwMjEsMjg0MjU1Mjk5LDE1ODAzNDk2MzVdfQ==
+eyJoaXN0b3J5IjpbLTU1Mjk2MjUwLDQ2ODIyNDg4NiwtNTUyOT
+YyNTAsLTE5Nzg0MTEyNTQsMzIzMjU4MjksLTIxMzA1Nzk4Mjgs
+MTA1NDE1ODM1NywxNjYwOTk1MDIxLDI4NDI1NTI5OSwxNTgwMz
+Q5NjM1XX0=
 -->
