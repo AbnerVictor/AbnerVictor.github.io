@@ -24,9 +24,8 @@ tags:  Java
 public class HelloWorld{
 public static void main(String[] args){
 System.out.println(“Helloworld”);
-}
 
-``
+`
 
 > **注：** `String args[]` 与 `String[] args` 都可以执行，但推荐使用后者，避免歧义
 
@@ -89,7 +88,6 @@ FreshJuiceSize size;
 public static void main(String[] args){
 FreshJuice juice = new FreshJuice();
 juice.size = FreshJuiceSize.FreshJuiceSize.MEDIUM;
-}
 }
 ```
 
@@ -177,6 +175,6 @@ public class Puppy{
 
 - import语句和package语句对源文件中定义的所有类都有效，在同一个源文件中，不能给不同的类不同的包声明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTc4MzMzMywxNjg4NDgxNDcsLTM5Mj
-AwNjk3OSwtMTI4MTA4NzU2MV19
+eyJoaXN0b3J5IjpbLTIzOTU4MjU1MSwxNTI1NzgzMzMzLDE2OD
+g0ODE0NywtMzkyMDA2OTc5LC0xMjgxMDg3NTYxXX0=
 -->
