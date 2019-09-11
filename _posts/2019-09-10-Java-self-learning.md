@@ -160,13 +160,10 @@ public class Puppy{
 ```java
 
 public class Puppy{
-
 	public Puppy(String name){}
-
 	public static void main(String[] args){
 		Puppy myPuppy = new Puppy("dog");
 	}
-】
 }
 
 ```
@@ -185,6 +182,6 @@ public class Puppy{
 
 - import语句和package语句对源文件中定义的所有类都有效，在同一个源文件中，不能给不同的类不同的包声明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzM2Nzg2MTYsLTM5MjAwNjk3OSwtMT
-I4MTA4NzU2MV19
+eyJoaXN0b3J5IjpbMTY4ODQ4MTQ3LC0zOTIwMDY5NzksLTEyOD
+EwODc1NjFdfQ==
 -->
