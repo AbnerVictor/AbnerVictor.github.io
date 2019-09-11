@@ -81,7 +81,7 @@ $$p(\theta\, | \,D) = \frac{p(D\, | \,\theta)p(\theta)}{p(D)}$$
 
 $$\hat{\theta}_{MLE} = arg \max_\theta p(D\, |\,\theta)$$
 
-上式中$p(D\, |\,\theta)$也称为似然函数，因此要求的参数$\theta$是一个使得似然性最大的参数。
+上式中$p(D\, \|\,\theta)$也称为似然函数，因此要求的参数$\theta$是一个使得似然性最大的参数。
 
 式4:
 
@@ -189,13 +189,13 @@ $$p(\theta\, | \,D) = \frac{(\prod_{i=1}^n p(x_i | \theta))p(\theta)}{\int_\thet
 
 ***
 
-利用通过贝叶斯估计得到的后验概率$p(\theta|D)$，可以求得数据集$D = \{x_1, x_2, ..., x_N\}$的下一个数据点$x_{N+1}$取值的数学期望，即：
+利用通过贝叶斯估计得到的后验概率$p(\theta\|D)$，可以求得数据集$D = \{x_1, x_2, ..., x_N\}$的下一个数据点$x_{N+1}$取值的数学期望，即：
 
 式9:
 
 $$E(x|D) = \int_x{x p(x|D)dx}$$
 
-也就是要求$p(x|D)$，同时又有$x$的分布与参数$\theta$有关，而$\theta$又是服从某种概率分布的，因此有下列式子成立。
+也就是要求$p(x\|D)$，同时又有$x$的分布与参数$\theta$有关，而$\theta$又是服从某种概率分布的，因此有下列式子成立。
 
 式10:
 
@@ -241,7 +241,7 @@ $$p(D\, |\,\theta) = \prod_{i=1}^n p(x_i | \theta).$$
 
 贝叶斯参数估计是在MAP上做进一步拓展，此时不直接估计参数的值，而是允许参数服从一定的概率分布。
 
-贝叶斯参数估计根据参数的先验分布$p(\theta)$和数据$D$求出$\theta$的后验分布$p(\theta|D)$，然后求出$\theta$的期望值。
+贝叶斯参数估计根据参数的先验分布$p(\theta)$和数据$D$求出$\theta$的后验分布$p(\theta\|D)$，然后求出$\theta$的期望值。
 
 贝叶斯参数估计的本质是通过贝叶斯决策得到参数$\theta$的最优估计，使得总期望风险最小。
 
@@ -255,5 +255,5 @@ $\hat{\theta} = E[\theta | D] = \int_\theta{\theta p(\theta|D)d\theta}$
 
 ![c885875e9c5b989d63bcbf54b6c52c25.png](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2387)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODQ2ODIyMSwxNTgwMzQ5NjM1XX0=
+eyJoaXN0b3J5IjpbMjg0MjU1Mjk5LDE1ODAzNDk2MzVdfQ==
 -->
