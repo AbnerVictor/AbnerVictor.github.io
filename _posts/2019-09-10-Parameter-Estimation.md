@@ -106,7 +106,7 @@ $$\log{p(D\, |\,\theta)} = 2*\log{\rho}+1*\log{(1-\rho)}$$
 
 对式6求导，可以得到使得似然函数最大的$\hat{\theta}$值：
 
-![f42c7f7fa55fcc9262955201a50e76b2.jpeg](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2384)
+![f42c7f7fa55fcc9262955201a50e76b2.jpeg](https://app.yinxiang.com/shard/s8/res/1a2c9b82-92ac-4307-910f-114a992e3c8e/78a759e1-2069-4746-8bdc-8bf8305037d3.jpg)
 
 ### 贝叶斯定理
 
@@ -178,7 +178,7 @@ $$p(\theta\, | \,D) = \frac{(\prod_{i=1}^n p(x_i | \theta))p(\theta)}{\int_\thet
 
 与MLE不同的是，式8中包含先验概率$p(\theta)$，根据抛硬币实验的经验，我们可以假设这个先验概率服从某种分布，比如Beta分布。
 
-![d8b447292d87700cce157ba4c14c5751.png](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2385)
+![d8b447292d87700cce157ba4c14c5751.png](https://app.yinxiang.com/shard/s8/res/5687477b-09ec-4a8b-8aa0-3ecd9f84d249/45421093-7ec6-4672-95a9-b2c83d222876.png)
 
 将所有已知的式子带入到式8中，就能求出后验概率$p(\theta\|D)$。
 
@@ -242,7 +242,7 @@ $$p(D\, |\,\theta) = \prod_{i=1}^n p(x_i | \theta).$$
 
 贝叶斯参数估计的本质是通过贝叶斯决策得到参数$\theta$的最优估计，使得总期望风险最小。
 
-![4b9ff8ac7064d7486b65f184f6190a78.png](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2386)
+![4b9ff8ac7064d7486b65f184f6190a78.png](https://app.yinxiang.com/shard/s8/res/2a6401d1-cd2f-484f-a2e4-f96c026695f9/3804e100-ce1f-4c80-a516-23f7b154b016.png)
 
 这里的损失函数$\lambda(\theta-\hat{\theta})$通常采用方差$(\theta-\hat{\theta})^2$。
 
@@ -252,6 +252,7 @@ $\hat{\theta} = E[\theta\|D] = \int_\theta{\theta p(\theta\|D)d\theta}$
 
 ![c885875e9c5b989d63bcbf54b6c52c25.png](evernotecid://E94EDE04-F978-4D1D-8415-97D907E48B5C/appyinxiangcom/16361109/ENResource/p2387)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA1Nzk4MjgsMTA1NDE1ODM1NywxNj
-YwOTk1MDIxLDI4NDI1NTI5OSwxNTgwMzQ5NjM1XX0=
+eyJoaXN0b3J5IjpbMTY3ODk5OTExOSwtMjEzMDU3OTgyOCwxMD
+U0MTU4MzU3LDE2NjA5OTUwMjEsMjg0MjU1Mjk5LDE1ODAzNDk2
+MzVdfQ==
 -->
