@@ -161,14 +161,12 @@ public class Puppy{
 
 public class Puppy{
 
-public Puppy(String name){}
+	public Puppy(String name){}
 
-public static void main(String[] args){
-
-Puppy myPuppy = new Puppy("dog");
-
-}
-
+	public static void main(String[] args){
+		Puppy myPuppy = new Puppy("dog");
+	}
+】
 }
 
 ```
@@ -187,6 +185,6 @@ Puppy myPuppy = new Puppy("dog");
 
 - import语句和package语句对源文件中定义的所有类都有效，在同一个源文件中，不能给不同的类不同的包声明
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjUwNzY1LC0zOTIwMDY5NzksLTEyOD
-EwODc1NjFdfQ==
+eyJoaXN0b3J5IjpbLTEwNzM2Nzg2MTYsLTM5MjAwNjk3OSwtMT
+I4MTA4NzU2MV19
 -->
