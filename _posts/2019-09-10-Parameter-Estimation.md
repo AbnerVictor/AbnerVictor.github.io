@@ -243,7 +243,7 @@ $$p(D\, |\,\theta) = \prod_{i=1}^n p(x_i | \theta).$$
 
 在给定数据$D$的情况下，$\theta$的贝叶斯估计值是：
 
-$\hat{\theta} = E[\theta\|D] = \int_\theta{\theta p(\theta\|D)d\theta}$
+$$\hat{\theta} = E[\theta\|D] = \int_\theta{\theta p(\theta\|D)d\theta}$$
 
 ![ndqsrF.png](https://s2.ax1x.com/2019/09/11/ndqsrF.png)
 
@@ -252,8 +252,8 @@ $\hat{\theta} = E[\theta\|D] = \int_\theta{\theta p(\theta\|D)d\theta}$
 > 2. 极大似然估计与贝叶斯估计: [原文链接](https://blog.csdn.net/liu1194397014/article/details/52766760)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzM5NTMzMCwtNTUyOTYyNTAsNDY4Mj
-I0ODg2LC0xOTc4NDExMjU0LDMyMzI1ODI5LC0yMTMwNTc5ODI4
-LDEwNTQxNTgzNTcsMTY2MDk5NTAyMSwyODQyNTUyOTksMTU4MD
-M0OTYzNV19
+eyJoaXN0b3J5IjpbOTU2MjA4NDAsMTA5NzM5NTMzMCwtNTUyOT
+YyNTAsNDY4MjI0ODg2LC0xOTc4NDExMjU0LDMyMzI1ODI5LC0y
+MTMwNTc5ODI4LDEwNTQxNTgzNTcsMTY2MDk5NTAyMSwyODQyNT
+UyOTksMTU4MDM0OTYzNV19
 -->
