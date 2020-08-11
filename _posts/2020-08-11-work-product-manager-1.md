@@ -16,10 +16,10 @@ tags:  产品经理
 
 ---
 
-和大多数同学朋友不一样，我毕业的第一份工作（目前）是在一家年纪与我的职业年龄相仿的，不到一岁的公司。和朋友们叙旧之前，我都要翻出公众号和官网给他们看一眼。我说跟你们这些BAT不一样，我还没长牙，就要上战场了。
+和大多数同学朋友不一样，我毕业的第一份工作（目前）是在一家年纪与我的职业年龄相仿的，不到一岁的公司。叙旧之前，我都要翻出公众号和官网给他们看一眼。我说跟你们这些BAT不一样，我还没长牙，就要上战场了。
 
-公司是新的，同事彼此之间，大多也是新鲜的。
+公司是新的，同事彼此之间，大多也是新鲜的。wo men ji zai
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMzE2MDQ5LDEyNzg3OTEzOTAsMjA4Nj
-k1NTE0XX0=
+eyJoaXN0b3J5IjpbLTQzNjk5NDAwMCwxMjc4NzkxMzkwLDIwOD
+Y5NTUxNF19
 -->
