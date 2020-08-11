@@ -27,7 +27,7 @@ tags:  产品经理
 
 ---
 
-不同团队对某个角色的定义和要求是不尽相同的，好比“产品经理”是个抽象出来的岗位，同一时间入职的朋友在一个月时间过去之后也分化出了不同的职能。于我，除了要保持嗅觉，作出理性的考量，大多数时候是在做琐碎的工作，比如，把自己在想什么想清楚，有条理地讲明白。
+不同团队对某个角色的定义和要求是不尽相同的，好比“产品经理”是个抽象出来的岗位，同一时间入职的朋友在一个月时间过去之后也分化出了不同的职能。于我，除了要保持嗅觉，作出理性的考量，大多数时候是在做琐碎的工作，比如，把自己在想什么想清楚，有条理地讲明白。在没有Pratice，每个字都是实战的时候，难免战战兢兢。
 
 因此这份职业的新鲜感褪的很快，我转而投入业务知识的蓝海。前两周，我花了很多时间来阅读文档，旁观项目，逐渐构建自己对业务的印象，然后在一次次的会议和讨论中颠覆自己的认知。
 
@@ -55,7 +55,7 @@ tags:  产品经理
 
 ***To Be Continue...***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODExNDI4OSwtNTUzOTQ1MjgwLC0xND
+eyJoaXN0b3J5IjpbLTQ4NTQ2ODQ2NSwtNTUzOTQ1MjgwLC0xND
 QyNjg1NzEyLDE5MTk1MTc4NTQsMjEwMjIzNjIxOCwtMTIxMDA4
 MTYwMSwtMTk2OTg2NjE0NSwtMTI2OTkwNTEyLDEyNzg3OTEzOT
 AsMjA4Njk1NTE0XX0=
