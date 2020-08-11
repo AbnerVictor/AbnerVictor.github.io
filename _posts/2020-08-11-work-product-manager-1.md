@@ -32,7 +32,7 @@ tags:  产品经理
 
 对于一个初创企业来说，没有答案是很正常的事情，因此需要大量有经验的人，勇敢地踩坑。对于一个初创企业里面的应届生来说，学习、思考和质疑是一个循环往复的过程。从这个角度来说，这份工作与我的相性还不错，我好奇心强，又很爱发问，但我想尽量让问题不那么天真，所以又要提前学习，说好听点，叫调研分析。
 
-一个月过去，不明朗的事情还是很多，在团队最早期的时候，周围的环境往往是迷雾状态，这是个积累的过程，除了花时间，别无他法。
+一个月过去，不明朗的事情还是很多，在团队最早期的时候，周围的环境往往是迷雾状态，这是个积累的过程，除了花时间，别无他法。你和团队
 
 ### 交朋友
 
@@ -50,8 +50,8 @@ tags:  产品经理
 
 想不明白的时候，就从在做的事情里去追逐热情吧。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTI3NjExMiwtMTQ0MjY4NTcxMiwxOT
-E5NTE3ODU0LDIxMDIyMzYyMTgsLTEyMTAwODE2MDEsLTE5Njk4
-NjYxNDUsLTEyNjk5MDUxMiwxMjc4NzkxMzkwLDIwODY5NTUxNF
-19
+eyJoaXN0b3J5IjpbMjE2OTE3MzUxLC0xNDQyNjg1NzEyLDE5MT
+k1MTc4NTQsMjEwMjIzNjIxOCwtMTIxMDA4MTYwMSwtMTk2OTg2
+NjE0NSwtMTI2OTkwNTEyLDEyNzg3OTEzOTAsMjA4Njk1NTE0XX
+0=
 -->
