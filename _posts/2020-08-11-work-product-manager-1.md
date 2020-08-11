@@ -46,11 +46,11 @@ tags:  产品经理
 
 ---
 
-有的时候想，自己到底要什么，做什么，合不合适做某件事。在大家选择道路不一样的时候，难免会产生比较，选择，得失。我还无法进入那种豁达的状态，显然是看到的don
+有的时候想，自己到底要什么，做什么，合不合适做某件事。在大家选择道路不一样的时候，难免会产生比较，选择或得失。我还无法进入那种豁达的状态，显然是目光太聚焦了，生活里只剩下这些。
 
-想不明白的时候，就从在做的事情里去追逐热情吧。
+想不明白的时候，就从在做的事里去追逐热情吧。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODQ1MDM0MywtMTQ0MjY4NTcxMiwxOT
+eyJoaXN0b3J5IjpbLTUzNDkxMDM0NywtMTQ0MjY4NTcxMiwxOT
 E5NTE3ODU0LDIxMDIyMzYyMTgsLTEyMTAwODE2MDEsLTE5Njk4
 NjYxNDUsLTEyNjk5MDUxMiwxMjc4NzkxMzkwLDIwODY5NTUxNF
 19
