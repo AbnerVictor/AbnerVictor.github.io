@@ -20,9 +20,11 @@ tags:  产品经理
 
 在并不宽裕的工作空间内，每天都能看见新同事入职。公司是新的，同事彼此之间，大多也是极新鲜的。
 
-### 
+### 认识业务
+
+===
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzI5MjY0NiwtMTIxMDA4MTYwMSwtMT
-k2OTg2NjE0NSwtMTI2OTkwNTEyLDEyNzg3OTEzOTAsMjA4Njk1
-NTE0XX0=
+eyJoaXN0b3J5IjpbLTEwOTIyODYwMTgsLTEyMTAwODE2MDEsLT
+E5Njk4NjYxNDUsLTEyNjk5MDUxMiwxMjc4NzkxMzkwLDIwODY5
+NTUxNF19
 -->
