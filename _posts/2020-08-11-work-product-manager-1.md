@@ -31,7 +31,7 @@ tags:  产品经理
 
 因此这份职业的新鲜感褪的很快，我转而投入业务知识的蓝海。前两周，我花了很多时间来阅读文档，旁观项目，逐渐构建自己对业务的印象，然后在一次次的会议和讨论中颠覆自己的认知。
 
-对于一个初创企业来说，没有答案是很正常的事情，因此需要大量能够迁移经验的人，勇敢地踩坑。对于一个初创企业里面的应届生来说，学习、思考和质疑是一个循环往复的过程。从这个角度来说，这份工作与我的相性还不错，我好奇心强，又很爱发问，但我想尽量让问题不那么天真，所以又要提前学习，说好听点，叫调研分析。
+对于一个初创企业来说，没有答案是很正常的事情，因此需要大量能够迁移经验的人，勇敢地踩坑。对于一个初创企业里面的应届生来说，从零学习、思考和质疑是一个循环往复的过程。从这个角度来说，这份工作与我的相性还不错，我好奇心强，又很爱发问，但我想尽量让问题不那么天真，所以又要提前学习，说好听点，叫调研分析。
 
 一个月过去，不明朗的事情还是很多，在团队最早期的时候，周围的环境往往是迷雾状态，这是个积累的过程，除了花时间，别无他法。你和团队一起成长是一件必须的事情，为此需要付出更高的责任心和时间，去实现自我和群体的提升。
 
@@ -55,8 +55,8 @@ tags:  产品经理
 
 ***To Be Continue...***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTQ2ODQ2NSwtNTUzOTQ1MjgwLC0xND
-QyNjg1NzEyLDE5MTk1MTc4NTQsMjEwMjIzNjIxOCwtMTIxMDA4
-MTYwMSwtMTk2OTg2NjE0NSwtMTI2OTkwNTEyLDEyNzg3OTEzOT
-AsMjA4Njk1NTE0XX0=
+eyJoaXN0b3J5IjpbODYwMjY4NTgzLC00ODU0Njg0NjUsLTU1Mz
+k0NTI4MCwtMTQ0MjY4NTcxMiwxOTE5NTE3ODU0LDIxMDIyMzYy
+MTgsLTEyMTAwODE2MDEsLTE5Njk4NjYxNDUsLTEyNjk5MDUxMi
+wxMjc4NzkxMzkwLDIwODY5NTUxNF19
 -->
