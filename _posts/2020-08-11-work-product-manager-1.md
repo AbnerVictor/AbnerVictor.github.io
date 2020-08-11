@@ -16,7 +16,7 @@ tags:  产品经理
 
 ---
 
-和大多数同学朋友不一样，我毕业的第一份工作（目前）是在一家年纪与我的职业年龄相仿的，不到一岁的公司做新的工作。叙旧之前，我都要翻出公众号和官网给他们看一眼。我说跟你们这些BAT不一样，我还没工牌，就要上战场了。
+和大多数同学朋友不一样，我毕业的第一份工作（目前）是在一家年纪与我的职业年龄相仿的，不到一岁的公司做新的工作。叙旧之前，我都要翻出公众号和官网给他们看一眼。我说跟你们这些BAT不一样，我还没工牌，就要上前线了。
 
 在并不宽裕的工作空间内，每天都能看见新同事入职。公司是新的，同事彼此之间，大多也是新鲜的，显得青涩而友好。
 
@@ -30,7 +30,7 @@ tags:  产品经理
 
 对于一个初创企业来说，没有答案是很正常的事情，因此需要大量有经验的人，勇敢地踩坑。对于一个初创企业里面的应届生来说，学习、思考和质疑是一个循环往复的过程。从这个角度来说，这份工作与我的相性不错，我很爱发问，但我想尽量让问题不那么天真，所以又要提前学习。
 
-不管是团队还是我，不懂得地方还是很多，这是个积累的过程，我还是保持乐观的。
+不管是团队还是我，不懂得地方还是很多，这是个积累的过程，我还是愿意保持乐观的。
 
 ### 交朋友
 
@@ -40,8 +40,8 @@ tags:  产品经理
 
 环境对人
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1Mjk3NzQxLC0xNDQyNjg1NzEyLDE5MT
-k1MTc4NTQsMjEwMjIzNjIxOCwtMTIxMDA4MTYwMSwtMTk2OTg2
-NjE0NSwtMTI2OTkwNTEyLDEyNzg3OTEzOTAsMjA4Njk1NTE0XX
-0=
+eyJoaXN0b3J5IjpbLTIxMjI5NjIyMjcsLTE0NDI2ODU3MTIsMT
+kxOTUxNzg1NCwyMTAyMjM2MjE4LC0xMjEwMDgxNjAxLC0xOTY5
+ODY2MTQ1LC0xMjY5OTA1MTIsMTI3ODc5MTM5MCwyMDg2OTU1MT
+RdfQ==
 -->
