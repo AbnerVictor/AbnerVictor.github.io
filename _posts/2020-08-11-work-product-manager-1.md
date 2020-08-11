@@ -34,9 +34,9 @@ tags:  产品经理
 
 ---
 
-很幸运的是，跟我并肩作战的同事们都是各种意义上的人才。
+很幸运的是，跟我并肩作战的同事们都是各种意义上的人才。有的具有丰富的职业经验，顺便具备精彩的故事
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzQ5MjQ1OSwyMTAyMjM2MjE4LC0xMj
+eyJoaXN0b3J5IjpbMTMxODc0NzYyMSwyMTAyMjM2MjE4LC0xMj
 EwMDgxNjAxLC0xOTY5ODY2MTQ1LC0xMjY5OTA1MTIsMTI3ODc5
 MTM5MCwyMDg2OTU1MTRdfQ==
 -->
