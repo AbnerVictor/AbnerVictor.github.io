@@ -28,12 +28,12 @@ tags:  产品经理
 
 初进公司的第一周，我花了很多时间来阅读文档，逐渐构建自己对业务的印象，然后在一次次的会议和讨论中颠覆自己的认知。
 
-对于一个初创企业来说，没有答案是很正常的事情，因此需要大量有经验的人，不断地踩坑。对于一个初创企业里面的应届生来说，学习、思考和质疑是一个极其自主的过程，
+对于一个初创企业来说，没有答案是很正常的事情，因此需要大量有经验的人，不断地踩坑。对于一个初创企业里面的应届生来说，学习、思考和质疑是一个循环往复的过程，多想
 
 
 ### 交朋友
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTMwMTY3NCwyMTAyMjM2MjE4LC0xMj
-EwMDgxNjAxLC0xOTY5ODY2MTQ1LC0xMjY5OTA1MTIsMTI3ODc5
-MTM5MCwyMDg2OTU1MTRdfQ==
+eyJoaXN0b3J5IjpbMTA4NjMwNjM5LDIxMDIyMzYyMTgsLTEyMT
+AwODE2MDEsLTE5Njk4NjYxNDUsLTEyNjk5MDUxMiwxMjc4Nzkx
+MzkwLDIwODY5NTUxNF19
 -->
