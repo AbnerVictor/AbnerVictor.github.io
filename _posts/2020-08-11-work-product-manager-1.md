@@ -20,7 +20,7 @@ tags:  产品经理
 
 在并不宽裕的工作空间内，每天都能看见新同事入职。公司是新的，同事彼此之间，大多也是新鲜的，显得青涩而友好。
 
-老师带着我们展望未来的时候，所有人的眼睛都在发光。而后工作总是脚踏实地的，落在每个人的身上，就是征途。
+老师带着我们展望未来的时候，所有人的眼睛都在发光。而后工作总是脚踏实地的，落在每个人的身上，就是大部分时间都不那么清晰的征途。
 
 ### 认识业务
 
@@ -35,7 +35,7 @@ tags:  产品经理
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1NjQ2OTI1LDIxMDIyMzYyMTgsLTEyMT
-AwODE2MDEsLTE5Njk4NjYxNDUsLTEyNjk5MDUxMiwxMjc4Nzkx
-MzkwLDIwODY5NTUxNF19
+eyJoaXN0b3J5IjpbMTQ3MzU4NTU4MiwyMTAyMjM2MjE4LC0xMj
+EwMDgxNjAxLC0xOTY5ODY2MTQ1LC0xMjY5OTA1MTIsMTI3ODc5
+MTM5MCwyMDg2OTU1MTRdfQ==
 -->
