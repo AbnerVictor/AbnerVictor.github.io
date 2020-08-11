@@ -40,12 +40,16 @@ tags:  产品经理
 
 很幸运的是，跟我并肩作战的同事们都是各种意义上的人才，向他们取经也是很有趣的事情。比起具体的事情怎么做，于我而言更有价值的是看待问题的思路，以及形成相互推进的动力。
 
-公司里认识的人多了，才有归属感。当然，发工资的时候ye hen you g
+公司里认识的人多了，才有归属感。当然，发工资的时候也很有归属感。
 
-### 是
+### Struggle with passion
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTQ2ODIwNCwtMTQ0MjY4NTcxMiwxOT
-E5NTE3ODU0LDIxMDIyMzYyMTgsLTEyMTAwODE2MDEsLTE5Njk4
-NjYxNDUsLTEyNjk5MDUxMiwxMjc4NzkxMzkwLDIwODY5NTUxNF
-19
+eyJoaXN0b3J5IjpbLTExMzMzNTUxNDIsLTE0NDI2ODU3MTIsMT
+kxOTUxNzg1NCwyMTAyMjM2MjE4LC0xMjEwMDgxNjAxLC0xOTY5
+ODY2MTQ1LC0xMjY5OTA1MTIsMTI3ODc5MTM5MCwyMDg2OTU1MT
+RdfQ==
 -->
