@@ -7,14 +7,16 @@ categories: 工作
 tags:  产品经理
 ---
 
-关键字：
-- 找座位
-- 认识业务
-- 交朋友
+> 关键字：
+>  - 找座位
+> - 认识业务
+> - 交朋友
 
 ### 需要与被需要
 
+---
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA4NDIwOSwyMDg2OTU1MTRdfQ==
+eyJoaXN0b3J5IjpbMTI3ODc5MTM5MCwyMDg2OTU1MTRdfQ==
 -->
