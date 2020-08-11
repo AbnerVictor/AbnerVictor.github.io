@@ -22,7 +22,7 @@ tags:  产品经理
 
 老师带着我们展望未来的时候，所有人的眼睛都在发光。而后工作总是脚踏实地的，落在每个人的身上，就是大部分时间都不那么明朗的征途。
 
-不同团队对某个角色的定义和要求是不尽相同的，“产品经理”是个抽象出来的岗位，除了要保持感性的嗅觉，作出理性的考量，大多数时候是在做琐碎的工作，把想法定义清楚，
+不同团队对某个角色的定义和要求是不尽相同的，好比“产品经理”是个抽象出来的岗位，同一时间入职的朋友在一个月时间过去之后也分化出了不同的职能。于我，除了要保持嗅觉，作出理性的考量，大多数时候是在做琐碎的工作。把想法定义清楚，塑形
 
 ### 认识业务
 
@@ -42,8 +42,8 @@ tags:  产品经理
 
 初入职场，广结善缘是一个快速增长见识，提升判断力的方法
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc5NzYyMTUsLTE0NDI2ODU3MTIsMT
-kxOTUxNzg1NCwyMTAyMjM2MjE4LC0xMjEwMDgxNjAxLC0xOTY5
-ODY2MTQ1LC0xMjY5OTA1MTIsMTI3ODc5MTM5MCwyMDg2OTU1MT
-RdfQ==
+eyJoaXN0b3J5IjpbMTI2MDYwMzU2MywtMTQ0MjY4NTcxMiwxOT
+E5NTE3ODU0LDIxMDIyMzYyMTgsLTEyMTAwODE2MDEsLTE5Njk4
+NjYxNDUsLTEyNjk5MDUxMiwxMjc4NzkxMzkwLDIwODY5NTUxNF
+19
 -->
