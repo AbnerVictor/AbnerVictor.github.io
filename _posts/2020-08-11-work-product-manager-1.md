@@ -40,9 +40,11 @@ tags:  产品经理
 
 很幸运的是，跟我并肩作战的同事们都是各种意义上的人才，向他们取经也是很有趣的事情。比起具体的事情怎么做，于我而言更有价值的是看待问题的思路，以及形成相互推进的动力。
 
-初入职场，广结善缘是一个快速增长见识，提升判断力的方法。
+公司里认识的人多了，才有归属感。当然，发工资的时候ye hen you g
+
+### 是
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjYwODQyMCwtMTQ0MjY4NTcxMiwxOT
+eyJoaXN0b3J5IjpbMTAzNTQ2ODIwNCwtMTQ0MjY4NTcxMiwxOT
 E5NTE3ODU0LDIxMDIyMzYyMTgsLTEyMTAwODE2MDEsLTE5Njk4
 NjYxNDUsLTEyNjk5MDUxMiwxMjc4NzkxMzkwLDIwODY5NTUxNF
 19
