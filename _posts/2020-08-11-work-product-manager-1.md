@@ -48,10 +48,10 @@ tags:  产品经理
 
 有的时候想，自己到底要什么，做什么，合不合适做某件事。
 
-想不明白的时候，就从在做的事情里去追逐找热情吧。
+想不明白的时候，就从在做的事情里去追逐热情吧。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5NzQyNDk2LC0xNDQyNjg1NzEyLDE5MT
-k1MTc4NTQsMjEwMjIzNjIxOCwtMTIxMDA4MTYwMSwtMTk2OTg2
-NjE0NSwtMTI2OTkwNTEyLDEyNzg3OTEzOTAsMjA4Njk1NTE0XX
-0=
+eyJoaXN0b3J5IjpbLTQxOTI3NjExMiwtMTQ0MjY4NTcxMiwxOT
+E5NTE3ODU0LDIxMDIyMzYyMTgsLTEyMTAwODE2MDEsLTE5Njk4
+NjYxNDUsLTEyNjk5MDUxMiwxMjc4NzkxMzkwLDIwODY5NTUxNF
+19
 -->
