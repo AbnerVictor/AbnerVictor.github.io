@@ -46,12 +46,14 @@ tags:  产品经理
 
 ---
 
-有的时候想，自己到底要什么，做什么，合不合适做某件事。在大家选择道路不一样的时候，难免会产生比较，选择或得失。我还无法进入那种豁达的状态，显然是目光太聚焦了，生活里只剩下这些。
+有的时候想，自己到底要什么，做什么，合不合适做某件事。在大家选择道路不一样的时候，难免会产生比较，选择或得失。显然是目光太聚焦了，生活里只剩下这些时，当然无法进入但行好事莫问前程的状态。所以又需要发掘一些其他的事情，对冲qing xu
 
 想不明白的时候，就从在做的事里去追逐热情吧，我还不想被现实夺走天真和梦想。
+
+***To Be Continue...***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDA2MDQ4OCwtMTQ0MjY4NTcxMiwxOT
-E5NTE3ODU0LDIxMDIyMzYyMTgsLTEyMTAwODE2MDEsLTE5Njk4
-NjYxNDUsLTEyNjk5MDUxMiwxMjc4NzkxMzkwLDIwODY5NTUxNF
-19
+eyJoaXN0b3J5IjpbODc5NDE1MzAwLC0xNDQyNjg1NzEyLDE5MT
+k1MTc4NTQsMjEwMjIzNjIxOCwtMTIxMDA4MTYwMSwtMTk2OTg2
+NjE0NSwtMTI2OTkwNTEyLDEyNzg3OTEzOTAsMjA4Njk1NTE0XX
+0=
 -->
