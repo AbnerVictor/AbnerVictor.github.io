@@ -36,9 +36,12 @@ tags:  产品经理
 
 ---
 
-很幸运的是，跟我并肩作战的同事们都是各种意义上的人才，向他们取经也是很有趣的事情。
+很幸运的是，跟我并肩作战的同事们都是各种意义上的人才，向他们取经也是很有趣的事情。比起具体的事情怎么做，于我而言更有价值的是看待问题的思路，以及相互推进的动力。
+
+环境对人
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI2ODU3MTIsMTkxOTUxNzg1NCwyMT
-AyMjM2MjE4LC0xMjEwMDgxNjAxLC0xOTY5ODY2MTQ1LC0xMjY5
-OTA1MTIsMTI3ODc5MTM5MCwyMDg2OTU1MTRdfQ==
+eyJoaXN0b3J5IjpbNTA1Mjk3NzQxLC0xNDQyNjg1NzEyLDE5MT
+k1MTc4NTQsMjEwMjIzNjIxOCwtMTIxMDA4MTYwMSwtMTk2OTg2
+NjE0NSwtMTI2OTkwNTEyLDEyNzg3OTEzOTAsMjA4Njk1NTE0XX
+0=
 -->
