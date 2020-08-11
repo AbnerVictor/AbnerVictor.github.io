@@ -26,7 +26,7 @@ tags:  产品经理
 
 ---
 
-初进公司的第一周，我花了很多时间来阅读文档，逐渐构建自己对业务的印象，然后在一次次的会议和讨论中颠覆自己的认知。
+第一周，我花了很多时间来阅读文档，逐渐构建自己对业务的印象，然后在一次次的会议和讨论中颠覆自己的认知。
 
 对于一个初创企业来说，没有答案是很正常的事情，因此需要大量有经验的人，勇敢地踩坑。对于一个初创企业里面的应届生来说，学习、思考和质疑是一个循环往复的过程。从这个角度来说，这份工作与我的相性不错，因为我很爱发问，但我想尽量让问题不那么天真。
 
@@ -35,7 +35,7 @@ tags:  产品经理
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzU4NTU4MiwyMTAyMjM2MjE4LC0xMj
+eyJoaXN0b3J5IjpbLTIxMDAyNTg4MiwyMTAyMjM2MjE4LC0xMj
 EwMDgxNjAxLC0xOTY5ODY2MTQ1LC0xMjY5OTA1MTIsMTI3ODc5
 MTM5MCwyMDg2OTU1MTRdfQ==
 -->
