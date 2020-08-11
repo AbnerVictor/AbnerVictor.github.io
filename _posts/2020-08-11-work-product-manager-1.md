@@ -34,11 +34,10 @@ tags:  产品经理
 
 ---
 
-很幸运的是，跟我并肩作战的同事们都是各种意义上的人才。有的具有丰富的职业经验，带着精彩的故事，坦白说，在这个过程中，也会收获到许多挫败感。
-
+很幸运的是，跟我并肩作战的同事们都是各种意义上的人才。保持乐观谦虚的态度，听
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzA1MjUwMCwxOTE5NTE3ODU0LDIxMD
-IyMzYyMTgsLTEyMTAwODE2MDEsLTE5Njk4NjYxNDUsLTEyNjk5
-MDUxMiwxMjc4NzkxMzkwLDIwODY5NTUxNF19
+eyJoaXN0b3J5IjpbMjY3NjY2MjY0LDE5MTk1MTc4NTQsMjEwMj
+IzNjIxOCwtMTIxMDA4MTYwMSwtMTk2OTg2NjE0NSwtMTI2OTkw
+NTEyLDEyNzg3OTEzOTAsMjA4Njk1NTE0XX0=
 -->
