@@ -28,9 +28,11 @@ tags:  产品经理
 
 初进公司的第一周，我花了很多时间来阅读文档，逐渐构建自己对业务的印象，然后在一次次的会议中颠覆自己的认知。
 
+这市
+
 ### 交朋友
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTgxNzgzNDMsMjEwMjIzNjIxOCwtMT
+eyJoaXN0b3J5IjpbLTEzMzkyOTE1NzgsMjEwMjIzNjIxOCwtMT
 IxMDA4MTYwMSwtMTk2OTg2NjE0NSwtMTI2OTkwNTEyLDEyNzg3
 OTEzOTAsMjA4Njk1NTE0XX0=
 -->
