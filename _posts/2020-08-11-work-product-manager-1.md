@@ -7,7 +7,11 @@ categories: 工作
 tags:  产品经理
 ---
 
+关键字：
 
+- 找到自己的座位
+- 认识业务
+- 交朋友
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzMjc1MDIzXX0=
+eyJoaXN0b3J5IjpbMjA4Njk1NTE0XX0=
 -->
