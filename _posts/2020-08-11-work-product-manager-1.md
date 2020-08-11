@@ -22,6 +22,7 @@ tags:  产品经理
 
 老师带着我们展望未来的时候，所有人的眼睛都在发光。而后工作总是脚踏实地的，落在每个人的身上，就是大部分时间都不那么明朗的征途，即，不是努力就能把事情做好，找对方向甚至需要付出成倍的努力。
 
+
 ### 认识业务
 
 ---
@@ -34,6 +35,7 @@ tags:  产品经理
 
 一个月过去，不明朗的事情还是很多，在团队最早期的时候，周围的环境往往是迷雾状态，这是个积累的过程，除了花时间，别无他法。你和团队一起成长是一件必须的事情，为此需要付出更高的责任心和时间，去实现自我和群体的提升。
 
+
 ### 交朋友
 
 ---
@@ -41,6 +43,7 @@ tags:  产品经理
 很幸运的是，跟我并肩作战的同事们都是各种意义上的人才，向他们取经也是很有趣的事情。比起具体的事情怎么做，于我而言更有价值的是看待问题的思路，以及形成相互推进的动力。
 
 公司里认识的人多了，才有归属感。当然，发工资的时候也很有归属感。
+
 
 ### Struggle with passion
 
@@ -52,7 +55,7 @@ tags:  产品经理
 
 ***To Be Continue...***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Njk5MDk2OSwtNTUzOTQ1MjgwLC0xND
+eyJoaXN0b3J5IjpbMTU4OTQ3ODc4MSwtNTUzOTQ1MjgwLC0xND
 QyNjg1NzEyLDE5MTk1MTc4NTQsMjEwMjIzNjIxOCwtMTIxMDA4
 MTYwMSwtMTk2OTg2NjE0NSwtMTI2OTkwNTEyLDEyNzg3OTEzOT
 AsMjA4Njk1NTE0XX0=
