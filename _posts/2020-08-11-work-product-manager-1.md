@@ -20,7 +20,7 @@ tags:  产品经理
 
 在并不宽裕的工作空间内，每天都能看见新同事入职。公司是新的，同事彼此之间，大多也是新鲜的，显得青涩而友好。
 
-老师带着我们展望未来的时候，所有人的眼睛都在发光。而后工作总是脚踏实地的，落在每个人的身上，就是大部分时间都不那么清晰的征途。
+老师带着我们展望未来的时候，所有人的眼睛都在发光。而后工作总是脚踏实地的，落在每个人的身上，就是大部分时间都不那么明朗的征途。
 
 ### 认识业务
 
@@ -30,18 +30,18 @@ tags:  产品经理
 
 对于一个初创企业来说，没有答案是很正常的事情，因此需要大量有经验的人，勇敢地踩坑。对于一个初创企业里面的应届生来说，学习、思考和质疑是一个循环往复的过程。从这个角度来说，这份工作与我的相性不错，我很爱发问，但我想尽量让问题不那么天真，所以又要提前学习。
 
-不管是团队还是我，不懂得地方还是很多，这是个积累的过程，我还是愿意保持乐观的。
+一个月过去，不明朗的事情还是很多，这是个积累的过程，我还是愿意保持乐观的。
 
 ### 交朋友
 
 ---
 
-很幸运的是，跟我并肩作战的同事们都是各种意义上的人才，向他们取经也是很有趣的事情。比起具体的事情怎么做，于我而言更有价值的是看待问题的思路，以及相互推进的动力。
+很幸运的是，跟我并肩作战的同事们都是各种意义上的人才，向他们取经也是很有趣的事情。比起具体的事情怎么做，于我而言更有价值的是看待问题的思路，以及形成相互推进的动力。
 
-
+接下来
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTkwMDgyLC0xNDQyNjg1NzEyLDE5MT
-k1MTc4NTQsMjEwMjIzNjIxOCwtMTIxMDA4MTYwMSwtMTk2OTg2
-NjE0NSwtMTI2OTkwNTEyLDEyNzg3OTEzOTAsMjA4Njk1NTE0XX
-0=
+eyJoaXN0b3J5IjpbMTk5MjMzNDg1MCwtMTQ0MjY4NTcxMiwxOT
+E5NTE3ODU0LDIxMDIyMzYyMTgsLTEyMTAwODE2MDEsLTE5Njk4
+NjYxNDUsLTEyNjk5MDUxMiwxMjc4NzkxMzkwLDIwODY5NTUxNF
+19
 -->
