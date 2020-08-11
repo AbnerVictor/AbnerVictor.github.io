@@ -34,9 +34,9 @@ tags:  产品经理
 
 ---
 
-很幸运的是，跟我并肩作战的同事们都是各种意义上的人才，向他们取经也是很有趣的事情
+很幸运的是，跟我并肩作战的同事们都是各种意义上的人才，向他们取经也是很有趣的事情。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzkwMTE1OSwxOTE5NTE3ODU0LDIxMD
+eyJoaXN0b3J5IjpbMTQ5MDA3NDI1MSwxOTE5NTE3ODU0LDIxMD
 IyMzYyMTgsLTEyMTAwODE2MDEsLTE5Njk4NjYxNDUsLTEyNjk5
 MDUxMiwxMjc4NzkxMzkwLDIwODY5NTUxNF19
 -->
