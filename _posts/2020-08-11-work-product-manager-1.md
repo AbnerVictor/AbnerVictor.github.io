@@ -22,6 +22,8 @@ tags:  产品经理
 
 老师带着我们展望未来的时候，所有人的眼睛都在发光。而后工作总是脚踏实地的，落在每个人的身上，就是大部分时间都不那么明朗的征途。
 
+不同团队对某个角色的定义和要求是不尽相同的，“产品经理”是个抽象出来的go
+
 ### 认识业务
 
 ---
@@ -40,7 +42,7 @@ tags:  产品经理
 
 初入职场，广结善缘是一个快速增长见识，提升判断力的方法
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDQyOTcwMSwtMTQ0MjY4NTcxMiwxOT
+eyJoaXN0b3J5IjpbLTMwOTM0MjE0MywtMTQ0MjY4NTcxMiwxOT
 E5NTE3ODU0LDIxMDIyMzYyMTgsLTEyMTAwODE2MDEsLTE5Njk4
 NjYxNDUsLTEyNjk5MDUxMiwxMjc4NzkxMzkwLDIwODY5NTUxNF
 19
