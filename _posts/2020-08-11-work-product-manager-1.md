@@ -29,7 +29,7 @@ tags:  产品经理
 
 不同团队对某个角色的定义和要求是不尽相同的，好比“产品经理”是个抽象出来的岗位，同一时间入职的朋友在一个月时间过去之后也分化出了不同的职能。于我，除了要保持嗅觉，作出理性的考量，大多数时候是在做琐碎的工作，比如，把自己在想什么想清楚，有条理地讲明白。
 
-因此这份职业的新鲜感褪的很快，我转而拓宽工作内容的蓝海，qu zuo gong。前两周，我花了很多时间来阅读文档，旁观项目，逐渐构建自己对业务的印象，然后在一次次的会议和讨论中颠覆自己的认知。
+因此这份职业的新鲜感褪的很快，我转而投入业务知识的蓝海。前两周，我花了很多时间来阅读文档，旁观项目，逐渐构建自己对业务的印象，然后在一次次的会议和讨论中颠覆自己的认知。
 
 对于一个初创企业来说，没有答案是很正常的事情，因此需要大量能够迁移经验的人，勇敢地踩坑。对于一个初创企业里面的应届生来说，学习、思考和质疑是一个循环往复的过程。从这个角度来说，这份工作与我的相性还不错，我好奇心强，又很爱发问，但我想尽量让问题不那么天真，所以又要提前学习，说好听点，叫调研分析。
 
@@ -55,8 +55,8 @@ tags:  产品经理
 
 ***To Be Continue...***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjgxNDg3LC01NTM5NDUyODAsLTE0ND
-I2ODU3MTIsMTkxOTUxNzg1NCwyMTAyMjM2MjE4LC0xMjEwMDgx
-NjAxLC0xOTY5ODY2MTQ1LC0xMjY5OTA1MTIsMTI3ODc5MTM5MC
-wyMDg2OTU1MTRdfQ==
+eyJoaXN0b3J5IjpbMTMyODExNDI4OSwtNTUzOTQ1MjgwLC0xND
+QyNjg1NzEyLDE5MTk1MTc4NTQsMjEwMjIzNjIxOCwtMTIxMDA4
+MTYwMSwtMTk2OTg2NjE0NSwtMTI2OTkwNTEyLDEyNzg3OTEzOT
+AsMjA4Njk1NTE0XX0=
 -->
