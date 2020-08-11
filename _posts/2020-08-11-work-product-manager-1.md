@@ -18,8 +18,8 @@ tags:  产品经理
 
 和大多数同学朋友不一样，我毕业的第一份工作（目前）是在一家年纪与我的职业年龄相仿的，不到一岁的公司。许久未见的朋友们叙旧之前，我都要翻出公众号和官网，给他们介绍一下。
 
-公司是新的，同事是年轻的。
+公司是新的，同事是年轻的，人手是紧张的。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzkwOTk2ODAsMTI3ODc5MTM5MCwyMD
-g2OTU1MTRdfQ==
+eyJoaXN0b3J5IjpbMTE2ODgwNTg5NywxMjc4NzkxMzkwLDIwOD
+Y5NTUxNF19
 -->
