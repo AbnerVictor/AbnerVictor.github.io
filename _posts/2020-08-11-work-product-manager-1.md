@@ -12,11 +12,12 @@ tags:  产品经理
 > - 认识业务
 > - 交朋友
 
-### 需要与被需要
+### 新鲜感
 
 ---
 
-
+和大多数同学朋友不一样，我毕业的第一份工作是在一家年纪与我的职业ji
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODc5MTM5MCwyMDg2OTU1MTRdfQ==
+eyJoaXN0b3J5IjpbMTI5NTM0OTU0MCwxMjc4NzkxMzkwLDIwOD
+Y5NTUxNF19
 -->
