@@ -18,8 +18,8 @@ tags:  产品经理
 
 和大多数同学朋友不一样，我毕业的第一份工作（目前）是在一家年纪与我的职业年龄相仿的，不到一岁的公司。叙旧之前，我都要翻出公众号和官网给他们看一眼。我说跟你们这些BAT不一样，我还没工牌，就要上战场了。
 
-公司是新的，同事彼此之间，大多也是新鲜的。在并不宽裕的工作空间内，每天都能看见新同事入职，。
+在并不宽裕的工作空间内，每天都能看见新同事入职。公司是新的，同事彼此之间，大多也是彼此新鲜的。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk4NjYxNDUsLTEyNjk5MDUxMiwxMj
-c4NzkxMzkwLDIwODY5NTUxNF19
+eyJoaXN0b3J5IjpbLTE3NzUzMTQ0MDksLTE5Njk4NjYxNDUsLT
+EyNjk5MDUxMiwxMjc4NzkxMzkwLDIwODY5NTUxNF19
 -->
