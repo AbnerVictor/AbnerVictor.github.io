@@ -20,9 +20,9 @@ tags:  产品经理
 
 在并不宽裕的工作空间内，每天都能看见新同事入职。公司是新的，同事彼此之间，大多也是新鲜的，显得青涩而友好。
 
-老师带着我们展望未来的时候，所有人的眼睛都在发光。而后工作总是脚踏实地的，落在每个人的身上，就是大部分时间都不那么明朗的征途，即，不是努力就能把事情做好，努力zhao fna。
+老师带着我们展望未来的时候，所有人的眼睛都在发光。而后工作总是脚踏实地的，落在每个人的身上，就是大部分时间都不那么明朗的征途，即，不是努力就能把事情做好，找对方向甚至需要付出成倍的努力。
 
-不同团队对某个角色的定义和要求是不尽相同的，好比“产品经理”是个抽象出来的岗位，同一时间入职的朋友在一个月时间过去之后也分化出了不同的职能。于我，除了要保持嗅觉，作出理性的考量，大多数时候是在做琐碎的工作，比如，把自己在想什么想清楚，有条理地讲明白。
+不同团队对某个角色的定义和要求是不尽相同的，好比“产品经理”是个抽象出来的岗位，同一时间入职的朋友在一个月时间过去之后也分化出了不同的职能。于我，除了要保持嗅觉，作出理性的考量，大多数时候是在做琐碎的工作，比如，把自己在想什么想清楚，有条理地讲明白。因此这份工作的新鲜感褪的很快
 
 ### 认识业务
 
@@ -50,8 +50,8 @@ tags:  产品经理
 
 想不明白的时候，就从在做的事情里去追逐热情吧。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxMjg3MDcyLC0xNDQyNjg1NzEyLDE5MT
-k1MTc4NTQsMjEwMjIzNjIxOCwtMTIxMDA4MTYwMSwtMTk2OTg2
-NjE0NSwtMTI2OTkwNTEyLDEyNzg3OTEzOTAsMjA4Njk1NTE0XX
-0=
+eyJoaXN0b3J5IjpbLTEzOTkzNzg0NjQsLTE0NDI2ODU3MTIsMT
+kxOTUxNzg1NCwyMTAyMjM2MjE4LC0xMjEwMDgxNjAxLC0xOTY5
+ODY2MTQ1LC0xMjY5OTA1MTIsMTI3ODc5MTM5MCwyMDg2OTU1MT
+RdfQ==
 -->
