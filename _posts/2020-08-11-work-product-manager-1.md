@@ -28,11 +28,12 @@ tags:  产品经理
 
 初进公司的第一周，我花了很多时间来阅读文档，逐渐构建自己对业务的印象，然后在一次次的会议中颠覆自己的认知。
 
-对于一个初创企业来说，有经验的人也没有答案是很正常的事情，所谓深耕和积累的重要性。而对于一个初创企业里面的应届生来说，学习和思考是一个
+对于一个初创企业来说，有经验的人也没有答案是很正常的事情，所谓深耕和积累的重要性。而对于一个初创企业里面的应届生来说，学习和思考是一个常见的过程，
+
 
 ### 交朋友
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Njg0Njg2NiwyMTAyMjM2MjE4LC0xMj
-EwMDgxNjAxLC0xOTY5ODY2MTQ1LC0xMjY5OTA1MTIsMTI3ODc5
-MTM5MCwyMDg2OTU1MTRdfQ==
+eyJoaXN0b3J5IjpbLTEyMDE5NjQ1OTEsMjEwMjIzNjIxOCwtMT
+IxMDA4MTYwMSwtMTk2OTg2NjE0NSwtMTI2OTkwNTEyLDEyNzg3
+OTEzOTAsMjA4Njk1NTE0XX0=
 -->
