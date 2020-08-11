@@ -20,17 +20,17 @@ tags:  产品经理
 
 在并不宽裕的工作空间内，每天都能看见新同事入职。公司是新的，同事彼此之间，大多也是新鲜的，显得青涩。
 
-老师带着我们展望未来的时候，所有人的眼睛都在发光。而后工作总是脚踏实地的，落在身上，就是每个人的征途。
+老师带着我们展望未来的时候，所有人的眼睛都在发光。而后工作总是脚踏实地的，落在每个人的身上，就是征途。
 
 ### 认识业务
 
 ---
 
-初进公司的第一周，我花了很多时间来阅读公司，逐渐构建自己对业务的认知
+初进公司的第一周，我花了很多时间来阅读文档，逐渐构建自己对业务的印象，然后在一次次的会议中颠覆自己的认知。
 
 ### 交朋友
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjIzNjIxOCwtMTIxMDA4MTYwMSwtMT
-k2OTg2NjE0NSwtMTI2OTkwNTEyLDEyNzg3OTEzOTAsMjA4Njk1
-NTE0XX0=
+eyJoaXN0b3J5IjpbLTE2MTgxNzgzNDMsMjEwMjIzNjIxOCwtMT
+IxMDA4MTYwMSwtMTk2OTg2NjE0NSwtMTI2OTkwNTEyLDEyNzg3
+OTEzOTAsMjA4Njk1NTE0XX0=
 -->
