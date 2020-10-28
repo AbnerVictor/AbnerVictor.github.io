@@ -11,7 +11,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
-  About: '/about.html'
+  AboutMe: '/about.html'
 
 # Footer
 footer:
@@ -20,7 +20,7 @@ footer:
 # Author 配置博主信息
 author: 'AbnerVictor'
 nickname: '小A'
-bio: '什么都感兴趣'
+bio: '好奇心第一'
 avatar: '/assets/img/profile.jpg'
 
 # Search
@@ -53,6 +53,7 @@ postPatterns: 'ticTacToe'
 sns:
   weibo: '//weibo.com/1874576177'
   github: '//github.com/AbnerVictor'
+  linkedin: '//www.linkedin.com/in/%E9%91%AB-%E6%9D%A8-621a801b0/'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
