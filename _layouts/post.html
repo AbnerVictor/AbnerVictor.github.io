@@ -140,11 +140,6 @@
       (d.head || d.body).appendChild(s);
     })();
   </script>
-  {% endif %}
-
-  <script src="/assets/js/prism.js"></script>
-  <script src="/assets/js/index.min.js"></script>
-
   <!-- Gitalk 评论 start -->
   <!-- Link Gitalk 的支持文件 -->
   <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
@@ -163,6 +158,10 @@
       gitalk.render('gitalk-container');
   </script>
   <!-- Gitalk end -->
+  {% endif %}
+
+  <script src="/assets/js/prism.js"></script>
+  <script src="/assets/js/index.min.js"></script>
 </body>
 
 </html>
