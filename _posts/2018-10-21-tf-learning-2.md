@@ -24,9 +24,9 @@ h4,h5 {color: #df732c !important;}
 
 SGD方法是一种耗时较长的更新方法，在实际应用上可以分为batch、mini-batch和stochastic三种方式，但实际上用到的数学方法是一致的：
 
-$$g_t = \nabla_{\theta_{t-1}}f(\theta_{t-1})$$
+$g_t = \nabla_{\theta_{t-1}}f(\theta_{t-1})$
 
-$$\Delta\theta_t = - \eta * g_t$$
+$\Delta\theta_t = - \eta * g_t$
 
 这里的$\theta_{t-1}$指的是上一次训练的参数，$f()$为损失函数，$g_t$就是损失函数的梯度，$\eta$是学习率
 
