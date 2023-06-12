@@ -19,9 +19,13 @@ I received my Bachelor's Degree in Software Engineering from Sun Yat-Sen Univers
 
 From July 2020 to Sept. 2021, I joined SmartMore as a Product Manager and an Algorithm Engineer. I also experienced a 3-month game development internship at NetEase in 2018, a fun period.
 
+<br/>
+
 ## Contact
 
 Email: [xin.yang@connect.ust.hk](mailto:xin.yang@connect.ust.hk)
+
+<br/>
 
 ## Publications
 
