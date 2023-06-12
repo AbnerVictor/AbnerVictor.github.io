@@ -9,7 +9,7 @@ tags:  HKUST
 <!-- subtitle: 'It's more fun to be a pirate than to join the Navy.' -->
 
 <div align=center>
-<img src="/assets/img/selfie.JPG" width="50%"/>  
+<img src="/assets/img/selfie.JPG" width="60%"/>  
 </div>
 
 <br/>
