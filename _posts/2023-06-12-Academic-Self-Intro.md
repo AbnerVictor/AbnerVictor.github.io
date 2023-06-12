@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ''
+title: 'Self-Introduction'
 subtitle: 'Ph.D. Student, HKUST'
 date: 2020-06-12
 categories: Academic
-tags:  Self-Introduction
+tags:  HKUST
 ---
 
 # About Me
@@ -17,7 +17,7 @@ From July 2020 to Sept. 2021, I joined SmartMore as a Product Manager and an Alg
 
 ## Contact
 
-Email: xin.yang@connect.ust.hk
+Email: [xin.yang@connect.ust.hk](mailto:xin.yang@connect.ust.hk)
 
 # Publications
 
