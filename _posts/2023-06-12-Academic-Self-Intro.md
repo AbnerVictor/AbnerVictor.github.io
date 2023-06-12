@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Self-Introduction'
-subtitle: 'Ph.D. Student, HKUST'
+subtitle: ''
 date: 2020-06-12
 categories: Academic
 tags:  HKUST
