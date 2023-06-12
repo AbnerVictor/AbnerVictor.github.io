@@ -30,17 +30,19 @@ Email: [xin.yang@connect.ust.hk](mailto:xin.yang@connect.ust.hk)
 
 ## Publications
 
-**Real-time 6K Image Rescaling with Rate-distortion Optimization, CVPR 2023**
-  - Chenyang Qi,* Xin Yang*, Ka Leong Cheng, Ying-Cong Chen, Qifeng Chen *(\*Co-First Author)*
+**[CVPR 2023] Real-time 6K Image Rescaling with Rate-distortion Optimization**
+  - Chenyang Qi\*, Xin Yang\*, Ka Leong Cheng, Ying-Cong Chen, Qifeng Chen *(\*Co-First Author)*
   - [arxiv](https://arxiv.org/abs/2304.01064) / [code](https://github.com/AbnerVictor/HyperThumbnail)
 
+<br/>
 
-**Out-of-domain GAN inversion via Invertibility Decomposition, Arxiv 2023**
+**[Arxiv 2023] Out-of-domain GAN inversion via Invertibility Decomposition**
   - Xin Yang, Xiaogang Xu, Yingcong Chen
   - [arxiv](https://arxiv.org/abs/2212.09262) / [code](https://github.com/AbnerVictor/OOD-GAN-inversion)
 
+<br/>
 
-**Real-time Streaming Video Denoising with Bidirectional Buffers, ACM Multimedia, 2022**
+**[ACM Multimedia 2022] Real-time Streaming Video Denoising with Bidirectional Buffers**
   - Chenyang Qi*, Junming Chen*, Xin Yang, Qifeng Chen 
   - [arxiv](https://arxiv.org/abs/2207.06937) / [code](https://github.com/ChenyangQiQi/BSVD) /[project page](https://chenyangqiqi.github.io/BSVD/index.html)
 
