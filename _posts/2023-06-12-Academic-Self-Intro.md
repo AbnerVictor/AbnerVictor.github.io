@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Self-Introduction'
+title: 'About Me'
 date: 2020-06-12
 categories: Academic
 tags:  HKUST
