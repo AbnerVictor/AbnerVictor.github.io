@@ -7,6 +7,12 @@ categories: Academic
 tags:  HKUST
 ---
 
+<div align=center>
+<img src="https://static.wixstatic.com/media/5777a3_645568887b4b4823bfb2c98eeb4784ad~mv2.png/v1/crop/x_0,y_0,w_1200,h_1471/fill/w_330,h_404,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5777a3_645568887b4b4823bfb2c98eeb4784ad~mv2.png" width="120px"/>  
+  
+</div>
+
+
 # About Me
 
 I'm currently a third-year Ph.D. student at the Hong Kong University of Science and Technology (HKUST), supervised by Prof. [Yingcong Chen](https://www.yingcong.me) and Prof. [Qifeng Chen](https://cqf.io).
