@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Self-Introduction'
-subtitle: ''
 date: 2020-06-12
 categories: Academic
 tags:  HKUST
 ---
+
+<!-- subtitle: 'It's more fun to be a pirate than to join the Navy.' -->
 
 <div align=center>
 <img src="/assets/img/selfie.JPG" width="50%"/>  
