@@ -36,7 +36,7 @@ Email: [xin.yang@connect.ust.hk](mailto:xin.yang@connect.ust.hk)
 
 <br/>
 
-**[Arxiv 2023] Out-of-domain GAN inversion via Invertibility Decomposition**
+**[ICCV 2023] Out-of-domain GAN inversion via Invertibility Decomposition for Photo-Realistic Human Face Manipulation**
   - Xin Yang, Xiaogang Xu, Yingcong Chen
   - [arxiv](https://arxiv.org/abs/2212.09262) / [code](https://github.com/AbnerVictor/OOD-GAN-inversion)
 
