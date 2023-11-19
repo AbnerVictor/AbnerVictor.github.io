@@ -35,8 +35,8 @@ Note: $\color{red}{\*}$ *Equal contribution.* \** *Corresponding author.*
 
 **LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**
 - [Yixun Liang](https://yixunliang.github.io/)$^{\color{red}{\*}}$ [Xin Yang](https://abnervictor.github.io/2023/06/12/Academic-Self-Intro.html)$^{\color{red}{\*}}$, Jiantao Lin, Haodong Li, [Xiaogang Xu](https://xiaogang00.github.io), [Yingcong Chen](https://www.yingcong.me)$^{\*\*}$
+- Many thanks to my co-first author, Mr. Yixun Liang for his hard work. We work tightly throughout the entire development process. In this project, Mr. Yixun Liang leads the conceptualization of the framework, and I focus on the methodology parts.
 - [code](https://github.com/EnVision-Research/LucidDreamer)
-- Acknowledgement: Special thanks to my co-first author, Mr. Yixun Liang for his hard work in this project
 
 **[ICCV 2023] Out-of-domain GAN inversion via Invertibility Decomposition for Photo-Realistic Human Face Manipulation**
   - Xin Yang, Xiaogang Xu$^{\*\*}$, Yingcong Chen$^{\*\*}$
