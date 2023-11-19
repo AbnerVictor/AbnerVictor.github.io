@@ -26,6 +26,7 @@ From July 2020 to Sept. 2021, I joined SmartMore as a Product Manager and an Alg
 
 Email: [xin.yang@connect.ust.hk](mailto:xin.yang@connect.ust.hk)
 
+Google Scholar: [Xin Yang](https://scholar.google.com/citations?user=O7I3Sy8AAAAJ&hl=zh-CN)
 <br/>
 
 ## Publications
@@ -34,10 +35,15 @@ Email: [xin.yang@connect.ust.hk](mailto:xin.yang@connect.ust.hk)
   - Xin Yang, Xiaogang Xu, Yingcong Chen
   - [arxiv](https://arxiv.org/abs/2212.09262) / [code](https://github.com/AbnerVictor/OOD-GAN-inversion)
 
+
+**[ICCV 2023] Out-of-domain GAN inversion via Invertibility Decomposition for Photo-Realistic Human Face Manipulation**
+  - Xin Yang, Xiaogang Xu, Yingcong Chen
+  - [arxiv](https://arxiv.org/abs/2212.09262) / [code](https://github.com/AbnerVictor/OOD-GAN-inversion)
+
 <br/>
 
 **[CVPR 2023] Real-time 6K Image Rescaling with Rate-distortion Optimization**
-  - Chenyang Qi\*, Xin Yang\*, Ka Leong Cheng, Ying-Cong Chen, Qifeng Chen *(\*Co-First Author)*
+  - Chenyang Qi$^{\color{red}{\*}}$, Xin Yang$^{\color{red}{\*}}$, Ka Leong Cheng, Ying-Cong Chen, Qifeng Chen *($\color{red}{\*}$Co-First Author)*
   - [arxiv](https://arxiv.org/abs/2304.01064) / [code](https://github.com/AbnerVictor/HyperThumbnail)
 
 <br/>
