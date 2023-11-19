@@ -22,6 +22,7 @@ From July 2020 to Sept. 2021, I joined SmartMore as a Product Manager and an Alg
 
 <br/>
 
+
 ## Contact
 
 Email: [xin.yang@connect.ust.hk](mailto:xin.yang@connect.ust.hk)
@@ -30,27 +31,21 @@ Google Scholar: [Xin Yang](https://scholar.google.com/citations?user=O7I3Sy8AAAA
 <br/>
 
 ## Publications
+Note: $\color{red}{\*}$ *Equal contribution.* \** *Corresponding author.*
+
+**LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**
+- [Yixun Liang](https://yixunliang.github.io/)$^{\color{red}{\*}}$ [Xin Yang](https://abnervictor.github.io/2023/06/12/Academic-Self-Intro.html)$^{\color{red}{\*}}$, Jiantao Lin, Haodong Li, [Xiaogang Xu](https://xiaogang00.github.io), [Yingcong Chen](https://www.yingcong.me)$^{\*\*}$
+- [code](https://github.com/EnVision-Research/LucidDreamer)
+- Acknowledgement: Special thanks to my co-first author, Mr. Yixun Liang for his hard work in this project
 
 **[ICCV 2023] Out-of-domain GAN inversion via Invertibility Decomposition for Photo-Realistic Human Face Manipulation**
-  - Xin Yang, Xiaogang Xu, Yingcong Chen
+  - Xin Yang, Xiaogang Xu$^{\*\*}$, Yingcong Chen$^{\*\*}$
   - [arxiv](https://arxiv.org/abs/2212.09262) / [code](https://github.com/AbnerVictor/OOD-GAN-inversion)
-
-
-**[ICCV 2023] Out-of-domain GAN inversion via Invertibility Decomposition for Photo-Realistic Human Face Manipulation**
-  - Xin Yang, Xiaogang Xu, Yingcong Chen
-  - [arxiv](https://arxiv.org/abs/2212.09262) / [code](https://github.com/AbnerVictor/OOD-GAN-inversion)
-
-<br/>
 
 **[CVPR 2023] Real-time 6K Image Rescaling with Rate-distortion Optimization**
-  - Chenyang Qi$^{\color{red}{\*}}$, Xin Yang$^{\color{red}{\*}}$, Ka Leong Cheng, Ying-Cong Chen, Qifeng Chen *($\color{red}{\*}$Co-First Author)*
+  - Chenyang Qi $^{\color{red}{\*}}$, Xin Yang $^{\color{red}{\*}}$, Ka Leong Cheng, Ying-Cong Chen, Qifeng Chen$^{\*\*}$
   - [arxiv](https://arxiv.org/abs/2304.01064) / [code](https://github.com/AbnerVictor/HyperThumbnail)
 
-<br/>
-
 **[ACM Multimedia 2022] Real-time Streaming Video Denoising with Bidirectional Buffers**
-  - Chenyang Qi*, Junming Chen*, Xin Yang, Qifeng Chen 
+  - Chenyang Qi*, Junming Chen*, Xin Yang, Qifeng Chen$^{\*\*}$
   - [arxiv](https://arxiv.org/abs/2207.06937) / [code](https://github.com/ChenyangQiQi/BSVD) /[project page](https://chenyangqiqi.github.io/BSVD/index.html)
-
-
-
