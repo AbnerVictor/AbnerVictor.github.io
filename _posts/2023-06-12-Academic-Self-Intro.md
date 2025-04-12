@@ -32,7 +32,7 @@ Note: \* *Equal contribution.* \** *Corresponding author.*
 
 **[CVPR 2025] Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation**
 - Jiantao Lin\*, **Xin Yang**\*, Meixi Chen\*, Yingjie Xu, Dongyu Yan, Leyi Wu, Xinli Xu, Lie Xu, Shunsi Zhang, Ying-Cong Chen\**
-- [paper](https://arxiv.org/abs/2503.01370) / [code](https://github.com/EnVision-Research/Kiss3DGen) / [project page](https://ltt-o.github.io/Kiss3dgen.github.io/)
+- [paper](https://arxiv.org/abs/2503.01370) / [code](https://github.com/EnVision-Research/Kiss3DGen) / [project page](https://ltt-o.github.io/Kiss3dgen.github.io/) / [our commercial product](https://gen3d.funnycp.com)
 
 **[CVPR 2024 Hightlight] LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**
 - [Yixun Liang](https://yixunliang.github.io/)\* [**Xin Yang**](https://abnervictor.github.io/2023/06/12/Academic-Self-Intro.html)\*, Jiantao Lin, Haodong Li, [Xiaogang Xu](https://xiaogang00.github.io), [Yingcong Chen](https://www.yingcong.me)\**
