@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'About Me'
-date: 2025-04-12
+date: 2023-06-12
 categories: Academic
 tags:  HKUST
 ---
