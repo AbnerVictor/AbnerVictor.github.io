@@ -30,7 +30,11 @@ Google Scholar: [Xin Yang](https://scholar.google.com/citations?user=O7I3Sy8AAAA
 ## Publications
 Note: $\color{red}{\*}$ *Equal contribution.* \** *Corresponding author.*
 
-**LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**
+**[CVPR 2025] Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation**
+- Lin Jiantao$^{\color{red}{\*}}$, **Yang Xin**$^{\color{red}{\*}}$, Chen Meixi$^{\color{red}{\*}}$, Xu Yingjie, Yan Dongyu, Wu Leyi, Xu Xinli, Xu Lie, Zhang Shunsi, Chen Ying-Cong$^{\*\*}$
+- [paper](https://arxiv.org/abs/2503.01370) / [code](https://github.com/EnVision-Research/Kiss3DGen) / [project page](https://ltt-o.github.io/Kiss3dgen.github.io/)
+
+**[CVPR 2024 Hightlight] LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**
 - [Yixun Liang](https://yixunliang.github.io/)$^{\color{red}{\*}}$ [Xin Yang](https://abnervictor.github.io/2023/06/12/Academic-Self-Intro.html)$^{\color{red}{\*}}$, Jiantao Lin, Haodong Li, [Xiaogang Xu](https://xiaogang00.github.io), [Yingcong Chen](https://www.yingcong.me)$^{\*\*}$
 - Many thanks to my co-first author, Mr. Yixun Liang for his hard work. We worked tightly throughout the entire development process of this project, where Mr. Yixun Liang led the conceptualization of the framework, and I focused on the methodology section.
 - [paper](https://arxiv.org/abs/2311.11284) / [code](https://github.com/EnVision-Research/LucidDreamer) / [project page (Coming Soon)]()
