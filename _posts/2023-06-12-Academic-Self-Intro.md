@@ -31,22 +31,22 @@ Google Scholar: [Xin Yang](https://scholar.google.com/citations?user=O7I3Sy8AAAA
 Note: \* *Equal contribution.* \** *Corresponding author.*
 
 **[CVPR 2025] Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation**
-- Lin Jiantao\*, **Yang Xin**\*, Chen Meixi\*, Xu Yingjie, Yan Dongyu, Wu Leyi, Xu Xinli, Xu Lie, Zhang Shunsi, Chen Ying-Cong\**
+- Jiantao Lin\*, **Xin Yang**\*, Meixi Chen\*, Yingjie Xu, Dongyu Yan, Leyi Wu, Xinli Xu, Lie Xu, Shunsi Zhang, Ying-Cong Chen\**
 - [paper](https://arxiv.org/abs/2503.01370) / [code](https://github.com/EnVision-Research/Kiss3DGen) / [project page](https://ltt-o.github.io/Kiss3dgen.github.io/)
 
 **[CVPR 2024 Hightlight] LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**
-- [Yixun Liang](https://yixunliang.github.io/)\* [Xin Yang](https://abnervictor.github.io/2023/06/12/Academic-Self-Intro.html)\*, Jiantao Lin, Haodong Li, [Xiaogang Xu](https://xiaogang00.github.io), [Yingcong Chen](https://www.yingcong.me)\**
+- [Yixun Liang](https://yixunliang.github.io/)\* [**Xin Yang**](https://abnervictor.github.io/2023/06/12/Academic-Self-Intro.html)\*, Jiantao Lin, Haodong Li, [Xiaogang Xu](https://xiaogang00.github.io), [Yingcong Chen](https://www.yingcong.me)\**
 - Many thanks to my co-first author, Mr. Yixun Liang for his hard work. We worked tightly throughout the entire development process of this project, where Mr. Yixun Liang led the conceptualization of the framework, and I focused on the methodology section.
 - [paper](https://arxiv.org/abs/2311.11284) / [code](https://github.com/EnVision-Research/LucidDreamer) / [project page (Coming Soon)]()
 
 **[ICCV 2023] Out-of-domain GAN inversion via Invertibility Decomposition for Photo-Realistic Human Face Manipulation**
-  - Xin Yang, Xiaogang Xu\**, Yingcong Chen\**
+  - **Xin Yang**, Xiaogang Xu\**, Yingcong Chen\**
   - [paper](https://arxiv.org/abs/2212.09262) / [code](https://github.com/AbnerVictor/OOD-GAN-inversion)
 
 **[CVPR 2023] Real-time 6K Image Rescaling with Rate-distortion Optimization**
-  - Chenyang Qi\*, Xin Yang \*, Ka Leong Cheng, Ying-Cong Chen, Qifeng Chen\**
+  - Chenyang Qi\*, **Xin Yang**\*, Ka Leong Cheng, Ying-Cong Chen, Qifeng Chen\**
   - [paper](https://arxiv.org/abs/2304.01064) / [code](https://github.com/AbnerVictor/HyperThumbnail)
 
 **[ACM Multimedia 2022] Real-time Streaming Video Denoising with Bidirectional Buffers**
-  - Chenyang Qi\*, Junming Chen\*, Xin Yang, Qifeng Chen\**
+  - Chenyang Qi\*, Junming Chen\*, **Xin Yang**, Qifeng Chen\**
   - [paper](https://arxiv.org/abs/2207.06937) / [code](https://github.com/ChenyangQiQi/BSVD) / [project page](https://chenyangqiqi.github.io/BSVD/index.html)
